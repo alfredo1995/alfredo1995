@@ -1,8 +1,9 @@
 Olá 👋
 
-Crio sistemas para ser acessado em navegadores com conhecimento comprovado em Lógica de Programação, HTML5, CSS3 e Javascript Básico
 
-<br/><b>conhecimento por autodidata básica em:</b><br/>
+<br/>Crio sistemas para ser acessado em navegadores com conhecimento comprovado em Lógica de Programação, HTML5, CSS3 e Javascript Básico
+
+<br/><b>Conhecimento por autodidata básica em:</b><br/><br/>
 
 Ferramenta de Framework Bootstrap e Vuejs.
 
@@ -14,7 +15,7 @@ Introdução ao NodeJs.<br/><br/>
 
 
 
-Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, raciocínio e concentração. <br/>           
+Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, raciocínio e concentração. <br/><br/>        
           
           
 [Contatos] <br/>
