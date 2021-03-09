@@ -5,10 +5,13 @@ Crio sistemas para ser acessado em navegadores com conhecimento comprovado em L�
 
 conhecimento por autodidata básica em:
 
-Javascript.
+
 Ferramenta de Framework Bootstrap e Vuejs.
+
 Sistema de Versionamento de código Git.
+
 Banco de dados MySQL.
+
 Introdução ao NodeJs.
 
 Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, raciocínio e concentração.             
