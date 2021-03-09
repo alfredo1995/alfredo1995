@@ -24,7 +24,8 @@ Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, ra
 [TEL] 31995358198
 
 [Email] alfredogomes1995@gmail.com<br/>
-
 <a href="https://www.linkedin.com/in/alfredo1995/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="rails" width="40" height="40" style="max-width: 100%;"></img>&nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
+</a>&nbsp;<a href="https://www.youtube.com/channel/UCXKSo8RSfVmrawXleZ-_arg" target="_blank">
+&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/vstatic/svg/174/174883.svg?token=exp=1615312579~hmac=42c0175e7f35ffe5f6fc857de58846c4" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>
