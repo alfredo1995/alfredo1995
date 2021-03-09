@@ -27,7 +27,5 @@ Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, ra
 [Email] alfredogomes1995@gmail.com
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="rails" width="40" height="40" style="max-width: 100%;"></img><&nbsp;
-<img src="https://www.flaticon.com/svg/vstatic/svg/174/174883.svg?token=exp=1615311018~hmac=c91d63cc391a906d7a1e8e7157a1aca9" alt="rails" width="40" height="40" style="max-width: 100%;"></img><&nbsp;
-</a>
 </a>
 
