@@ -3,8 +3,7 @@ Olá 👋
 
 Crio sistemas para ser acessado em navegadores com conhecimento comprovado em Lógica de Programação, HTML5, CSS3 e Javascript Básico
 
-[**conhecimento por autodidata básica em:**]
-
+<b>conhecimento por autodidata básica em:<b>
 
 Ferramenta de Framework Bootstrap e Vuejs.
 
