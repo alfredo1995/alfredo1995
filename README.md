@@ -5,13 +5,13 @@ Olá 👋
 
 <br/><b>Conhecimento por autodidata básica em:</b><br/><br/>
 
-Ferramenta de Framework Bootstrap e Vuejs.
+Ferramenta de Framework Bootstrap e Vuejs básico.
 
 Sistema de Versionamento de código Git.
 
-Banco de dados MySQL.
+Comandos MySQL Básico.
 
-Introdução ao NodeJs.<br/><br/>
+Introdução ao NodeJs básico.<br/><br/>
 
 
 
