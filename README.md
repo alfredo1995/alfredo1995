@@ -3,7 +3,10 @@ Olá 👋
 
 Crio sistemas para ser acessado em navegadores com conhecimento comprovado em Lógica de Programação, HTML5, CSS3 e Javascript Básico
 
+
+
 <b>conhecimento por autodidata básica em:<b>
+          
 
 Ferramenta de Framework Bootstrap e Vuejs.
 
@@ -12,6 +15,10 @@ Sistema de Versionamento de código Git.
 Banco de dados MySQL.
 
 Introdução ao NodeJs.
+
+
+
+
 
 Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, raciocínio e concentração.             
           
