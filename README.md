@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**alfredo1995/alfredo1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Meu Nome é ** Alfreo Gomes ! ** Sou de ** Belo Horizonte/MG **
 
 Crio sistemas para ser acessado em navegadores com conhecimento comprovado em Lógica de Programação, HTML5, CSS3 e Javascript Básico.
@@ -15,7 +12,19 @@ Sistema de Versionamento de código Git.
 Banco de dados MySQL.
 Introdução ao NodeJs.
 
-Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, raciocínio e concentração. 
+Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, raciocínio e concentração.             
+          
+          
+[Contatos]
 
-contatos: alfredogomes1995@gmail.com
-          31995358198
+
+[TEL] 31995358198
+
+[Email] alfredogomes1995@gmail.com
+
+[Instagram]https://www.instagram.com/alfredogomesss/)
+
+[Lindedin]https://www.linkedin.com/in/alfredo1995/)
+
+[Facebook]https://www.facebook.com/alfredo.gomespereira.1)
+
