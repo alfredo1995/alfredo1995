@@ -1,6 +1,5 @@
 Olá 👋
 
-Meu Nome é ** Alfreo Gomes ! ** Sou de ** Belo Horizonte/MG **
 
 Crio sistemas para ser acessado em navegadores com conhecimento comprovado em Lógica de Programação, HTML5, CSS3 e Javascript Básico.
 
