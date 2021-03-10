@@ -7,7 +7,7 @@ Olá 👋
 
 Ferramenta de Framework Bootstrap e Vuejs básico.
 
-Sistema de Versionamento de código Git.
+Sistema de Versionamento de código Git/Github.
 
 introdução ao SQL Serve e MySQL Básico.
 
