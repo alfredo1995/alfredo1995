@@ -9,7 +9,7 @@ Ferramenta de Framework Bootstrap e Vuejs básico.
 
 Sistema de Versionamento de código Git/Github.
 
-introdução ao SQL Serve e MySQL Básico.
+introdução Comandos de banco de dados MySQL.
 
 Introdução ao NodeJs básico.<br/><br/>
 
