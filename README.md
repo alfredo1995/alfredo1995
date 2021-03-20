@@ -5,11 +5,11 @@ Olá 👋
 
 <br/><b>Conhecimento por autodidata básica em:</b><br/><br/>
 
-Sistema de Versionamento de código Git/Github.
+Sistema de Versionamento de código (Git/Github.)
 
 Sistema de Banco de dados ( Xammp + MySQL Workbench)
 
-Framework Web Bootstrap, Laravel e Vue.js.
+Framework Web (Bootstrap, Laravel e Vue.js.)
 
 Estudando e desenvolvendo atualmente:
 
@@ -18,8 +18,6 @@ Introdução e noções básica de API Rest em (Nodejs, NPM e MongoDB)
 Desenvolvendo uma aplicação em (php+ laravel 8 + MySQL e Vuej.s )
 
 <br/><br/>
-
-
 
 Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, raciocínio e concentração. <br/><br/>        
           
