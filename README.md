@@ -1,17 +1,25 @@
 Olá 👋
 
 
-<br/>Crio sistemas para ser acessado em navegadores com conhecimento comprovado em Lógica de Programação, HTML5, CSS3 e Javascript Básico
+<br/>Crio sistemas para ser acessado em navegadores com conhecimento comprovado em Lógica de Programação, HTML5, CSS3, MySQL Javascript e PHP básico.
 
 <br/><b>Conhecimento por autodidata básica em:</b><br/><br/>
 
-Ferramenta de Framework Bootstrap e Vuejs básico.
-
 Sistema de Versionamento de código Git/Github.
 
-introdução Comandos de banco de dados MySQL.
+Sistema de Banco de dados ( Xammp + MySQL Workbench)
 
-Introdução ao NodeJs básico.<br/><br/>
+Framework Web Bootstrap, Laravel e Vue.js.
+
+Marketing Digital Básico
+
+Estudando e desenvolvendo atualmente:
+
+Introdução e noções básica de API Rest em (Nodejs, NPM e MongoDB)
+
+Desenvolvendo uma aplicação em (php+ laravel 8 + MySQL e Vuej.s )
+
+br/><br/>
 
 
 
