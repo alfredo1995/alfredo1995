@@ -11,15 +11,13 @@ Sistema de Banco de dados ( Xammp + MySQL Workbench)
 
 Framework Web Bootstrap, Laravel e Vue.js.
 
-Marketing Digital Básico
-
 Estudando e desenvolvendo atualmente:
 
 Introdução e noções básica de API Rest em (Nodejs, NPM e MongoDB)
 
 Desenvolvendo uma aplicação em (php+ laravel 8 + MySQL e Vuej.s )
 
-br/><br/>
+<br/><br/>
 
 
 
