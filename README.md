@@ -11,7 +11,7 @@ Sistema de Banco de dados ( Xammp + MySQL Workbench)
 
 Framework Web (Bootstrap, Laravel e Vue.js.)<br/><br/>
 
-Estudando e desenvolvendo atualmente:<br/>
+<b>Estudando e desenvolvendo atualmente:<br/><br/>
 
 Introdução e noções básica de API Rest em (Nodejs, NPM e MongoDB)
 
