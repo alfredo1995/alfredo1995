@@ -9,9 +9,9 @@ Sistema de Versionamento de código (Git/Github.)
 
 Sistema de Banco de dados ( Xammp + MySQL Workbench)
 
-Framework Web (Bootstrap, Laravel e Vue.js.)
+Framework Web (Bootstrap, Laravel e Vue.js.)<br/><
 
-Estudando e desenvolvendo atualmente:
+Estudando e desenvolvendo atualmente:<br/><
 
 Introdução e noções básica de API Rest em (Nodejs, NPM e MongoDB)
 
