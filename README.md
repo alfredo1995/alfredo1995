@@ -13,7 +13,7 @@ Framework Web (Bootstrap, Laravel 8 e Vue.js.)<br/><br/>
 
 <b>Estudando e desenvolvendo atualmente:<br/><br/>
 
-Introdução a Criação de API Rest em (Nodejs, NPM e MongoDB)
+Introdução a Criação de API Rest em (Nodejs e NPM)
 
 Desenvolvendo uma aplicação em (php+ laravel 8 + MySQL e Vuej.s )
 
