@@ -1,7 +1,7 @@
 Olá 👋
 
 
-<br/>Crio sistemas para ser acessado em navegadores com conhecimento comprovado em Lógica de Programação, HTML5, CSS3, MySQL Javascript e PHP básico.
+<br/>Crio sistemas para ser acessado em navegadores com conhecimento comprovado em Lógica de Programação, HTML5, CSS3, MySQL Javascript e PHP 8 e Laravel 8.
 
 <br/><b>Conhecimento por autodidata básica em:</b><br/><br/>
 
@@ -9,11 +9,11 @@ Sistema de Versionamento de código (Git/Github.)
 
 Sistema de Banco de dados ( Xammp + MySQL Workbench)
 
-Framework Web (Bootstrap, Laravel e Vue.js.)<br/><br/>
+Framework Web (Bootstrap, Laravel 8 e Vue.js.)<br/><br/>
 
 <b>Estudando e desenvolvendo atualmente:<br/><br/>
 
-Introdução e noções básica de API Rest em (Nodejs, NPM e MongoDB)
+Introdução a Criação de API Rest em (Nodejs, NPM e MongoDB)
 
 Desenvolvendo uma aplicação em (php+ laravel 8 + MySQL e Vuej.s )
 
