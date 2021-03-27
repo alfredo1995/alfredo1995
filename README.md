@@ -37,6 +37,5 @@ Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, ra
 </a>&nbsp;<a href="https://www.instagram.com/alfredogomesss/" target="_blank">&nbsp;
 <img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1615312992~hmac=d2ec1daf0b905d8ffc5218d656f85969" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>&
-&nbsp;<img src="https://www.flaticon.com/svg/vstatic/svg/733/733547.svg?token=exp=1615313269~hmac=4ba27d907f2067fbdeac750d32704e10" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
-</a><a href="https://my.indeed.com/p/alfredog-52cnbyc" target="_blank">&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
+&nbsp;<a href="https://my.indeed.com/p/alfredog-52cnbyc" target="_blank">&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>
