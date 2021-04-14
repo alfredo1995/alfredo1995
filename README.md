@@ -19,7 +19,7 @@ Desenvolvendo aplicação no modelo tradicional MVC ( PHP + MySQL + Laravel 8 )
 
 Criação de API no modelo REST em (Node.js e NPM)
 
-<br/><br/>
+<br/>
 
 Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, raciocínio e concentração. <br/><br/>        
           
