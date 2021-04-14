@@ -33,7 +33,7 @@ Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, ra
 <br/><a href="https://www.linkedin.com/in/alfredo1995/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>&nbsp;<a href="https://www.youtube.com/channel/UCXKSo8RSfVmrawXleZ-_arg" target="_blank">
-&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/vstatic/svg/174/174883.svg?token=exp=1615312579~hmac=42c0175e7f35ffe5f6fc857de58846c4" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
+&nbsp;&nbsp;<img src="https://www.odonto.ufmg.br/cenex/wp-content/uploads/sites/2/2019/10/20180117155526-youtube.jpeg" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>&nbsp;<a href="https://www.instagram.com/alfredogomesss/" target="_blank">&nbsp;
 &nbsp;<a href="https://my.indeed.com/p/alfredog-52cnbyc" target="_blank">&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>
