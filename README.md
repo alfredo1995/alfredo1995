@@ -3,7 +3,7 @@ Olá 👋
 
 <br/>Crio sistemas para ser acessado em navegadores com conhecimento comprovado em Lógica de Programação, HTML5, MySQL Javascript e PHP 8 e Laravel 8.
 
-<br/><b>Conhecimento por autodidata básica em:</b><br/><br/>
+<br/><b>Conhecimento por autodidata em:</b><br/><br/>
 
 Desenvolvimento web (HTML5 e JavaScript)
 
