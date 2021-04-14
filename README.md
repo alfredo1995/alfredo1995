@@ -5,17 +5,19 @@ Olá 👋
 
 <br/><b>Conhecimento por autodidata básica em:</b><br/><br/>
 
+Desenvolvimento web (HTML5 e JavaScript)
+
 Sistema de Versionamento de código (Git/Github.)
 
-Sistema de Banco de dados ( Xammp + MySQL Workbench)
+Banco de dados relacionais ( MySQL e SQL Server)
 
-Framework Web (Bootstrap, Laravel 8 e Vue.js.)<br/><br/>
+Framework Web PHP( Bootstrap e Laravel 8)<br/><br/>
 
 <b>Estudando e desenvolvendo atualmente:<br/><br/>
 
-Introdução a Criação de API Rest em (Nodejs e NPM)
+Desenvolvendo aplicação no modelo tradicional MVC ( PHP + MySQL + Laravel 8 )
 
-Desenvolvendo uma aplicação em (php+ laravel 8 + MySQL e Vuej.s )
+Criação de API no modelo REST em (Node.js e NPM)
 
 <br/><br/>
 
