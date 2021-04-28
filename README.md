@@ -17,7 +17,7 @@ Framework Web PHP( Bootstrap e Laravel 8)<br/><br/>
 
 Desenvolvendo aplicação no modelo tradicional MVC ( PHP + MySQL + Laravel 8 )
 
-Criação de API no modelo REST em (Node.js e NPM)
+Criação de API REST Webservice
 
 <br/>
 
