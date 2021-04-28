@@ -13,7 +13,7 @@ Framework Web PHP( Bootstrap e Laravel 8)<br/><br/>
 
 Sistema de Versionamento de código (Git/Github.)
 
-<br>Estudando e desenvolvendo atualmente:<br/><br/>
+<br><b>Estudando e desenvolvendo atualmente:<br/><br/>
 
 Aplicação no modelo tradicional MVC ( PHP + MySQL + Laravel 8 )
 
@@ -23,7 +23,7 @@ Criação de API Rest Webservice ( Laravel 8 + Postman + MySQL )
 
 <br/>
 
-Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, raciocínio e concentração. <br/><br/>        
+<b>Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, raciocínio e concentração. <br/><br/>        
           
           
 [Contatos] <br/>
