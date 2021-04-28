@@ -13,7 +13,7 @@ Framework Web PHP( Bootstrap e Laravel 8)<br/><br/>
 
 Sistema de Versionamento de código (Git/Github.)
 
-<b>Estudando e desenvolvendo atualmente:<br/><br/>
+<br>Estudando e desenvolvendo atualmente:<br/><br/>
 
 Aplicação no modelo tradicional MVC ( PHP + MySQL + Laravel 8 )
 
