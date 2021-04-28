@@ -1,23 +1,25 @@
 Olá 👋
 
 
-Crio sistemas para ser acessado em navegadores com conhecimento comprovado em Lógica de Programação, HTML5, MySQL Javascript e PHP 8 e Laravel 8.
+Trabalho com desenvolvimento de sistemas Web. Tenho certificação em Lógica de Programação, HTML5, MySQL, JavaScript, PHP e Laravel 8
 
 <br/><b>Conhecimento por autodidata em:</b><br/><br/>
 
 Desenvolvimento web (HTML5 e JavaScript)
 
-Sistema de Versionamento de código (Git/Github.)
-
 Banco de dados relacionais ( MySQL e SQL Server)
 
 Framework Web PHP( Bootstrap e Laravel 8)<br/><br/>
 
+Sistema de Versionamento de código (Git/Github.)
+
 <b>Estudando e desenvolvendo atualmente:<br/><br/>
 
-Desenvolvendo aplicação no modelo tradicional MVC ( PHP + MySQL + Laravel 8 )
+Aplicação no modelo tradicional MVC ( PHP + MySQL + Laravel 8 )
 
-Criação de API REST Webservice
+Autenticação Web ( Composer + UI Laravel + Nodejs + NPM + Bootstrap + MySQL )
+
+Criação de API Rest Webservice ( Laravel 8 + Postman + MySQL )
 
 <br/>
 
