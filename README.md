@@ -1,7 +1,7 @@
 Olá 👋
 
 
-Trabalho com desenvolvimento de software e sistemas Web. Certificação em Lógica de Programação, HTML5, MySQL, JavaScript, PHP e Laravel 8
+Trabalho com desenvolvimento de software e sistemas Web. Certificação em Lógica de Programação, HTML5, JavaScript, MySQL, PHP, POO e Laravel 8
 
 <b>Conhecimento por autodidata em:</b>
 
