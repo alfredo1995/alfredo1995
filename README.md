@@ -9,7 +9,7 @@ Desenvolvimento web (HTML5 e JavaScript)
 
 Banco de dados relacionais ( MySQL e SQL Server)
 
-Framework Web PHP( Bootstrap e Laravel 8) <br/><br/>
+Framework Web PHP( Bootstrap e Laravel 8) 
 
 Sistema de Versionamento de código ( Git / GitHub )
 
