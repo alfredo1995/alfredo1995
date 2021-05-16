@@ -9,17 +9,20 @@ Desenvolvimento web (HTML5 e JavaScript)
 
 Banco de dados relacionais ( MySQL e SQL Server)
 
-Framework Web PHP( Bootstrap e Laravel 8)<br/><br/>
+Framework Web PHP( Bootstrap e Laravel 8) <br/><br/>
 
-Sistema de Versionamento de código (Git/Github.)
-
-<br><b>Estudando e desenvolvendo atualmente:<br/><br/>
+Sistema de Versionamento de código ( Git / GitHub )
 
 Aplicação no modelo tradicional MVC ( PHP + MySQL + Laravel 8 )
 
-Autenticação Web ( Composer + UI Laravel + Nodejs + NPM + Bootstrap + MySQL )
+Arquitetura da aplicação no modelo tradicional MVC
 
 Criação de API Rest Webservice ( Laravel 8 + Postman + MySQL )
+
+<br><b>Estudando e desenvolvendo atualmente:<br/><br/>
+          
+ Migrando sistema PHP estruturado para o Laravel 8
+         
 
 <br/>
 
