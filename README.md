@@ -13,8 +13,6 @@ Framework Web PHP( Bootstrap e Laravel 8)
 
 Sistema de Versionamento de código ( Git / GitHub )
 
-Aplicação no modelo tradicional MVC ( PHP + MySQL + Laravel 8 )
-
 Arquitetura da aplicação no modelo tradicional MVC
 
 Criação de API Rest Webservice ( Laravel 8 + Postman + MySQL )
