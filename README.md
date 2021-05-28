@@ -12,6 +12,7 @@ Conhecimento por autodidata:
                   - Sistema de Versionamento de código (Git / GitHub).
                   - Aplicação no modelo tradicional MVC
                   - Criação de API Rest Webservice
+                  - **Aplicação no modelo de arquitetura MVC**
                   
 Experiência profissional: Autonômo 
                       
