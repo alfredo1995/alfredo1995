@@ -1,6 +1,5 @@
 Olá 👋
 
-
 Trabalho com desenvolvimento de software e sistemas Web. Certificação em Lógica de Programação
 
                   - HTML5; JavaScript; Node.js; MySQL; PHP; POO e Laravel 8.
@@ -28,7 +27,7 @@ Estudando e desenvolvendo atualmente:
                   - Asp.Net Core
                   - Microsoft Azure
 
-<b>SDiligente, proativo, apaixonado por programação, inteligível e raciocínio ágil.. <br/>      
+<b>Sou diligente, proativo, apaixonado por programação, inteligível e raciocínio ágil.. <br/>     
           
           
 [TEL] 31995358198
