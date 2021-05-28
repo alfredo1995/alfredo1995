@@ -14,9 +14,9 @@ Conhecimento por autodidata:
                   - Criação de API Rest Webservice
                   
 Experiência profissional: 
+                      
+                  Desenvolvedor Jr PHP/ LARAVEL (DC TECNOLOGIA ). 3 MESES
 
-   Desenvolvedor Jr PHP/ LARAVEL (DC TECNOLOGIA )
-   
                   Prestação de serviços de programação de desenvolvimento de softwares e sistemas web: desenvolver,
                   aplicar, criar API's e definir módulos, sistemas e software através da linguagem PHP: Framework Laravel 8 +
                   Banco de dados relacionais MySQL + NPM Node.js + Template Bootstrap 5
