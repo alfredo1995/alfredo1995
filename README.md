@@ -10,9 +10,9 @@ Conhecimento por autodidata:
                   - Banco de dados relacionais (MySQL e SQL Server);
                   - Framework Web PHP (Laravel 8 e Bootstrap ); 
                   - Sistema de Versionamento de código (Git / GitHub).
-                  - Aplicação no modelo tradicional MVC
-                  - Criação de API Rest Webservice
-                  - **Aplicação no modelo de arquitetura MVC**
+                  - Aplicação no modelo de arquitetura MVC
+                  - PDO para abstração de acesso aos dados
+                  - Criação de API Rest e Webservice
                   
 Experiência profissional: Autonômo 
                       
@@ -24,10 +24,7 @@ Experiência profissional: Autonômo
 
 Estudando e desenvolvendo atualmente:
           
-                  - Angular 9
-                  - C#
-                  - Asp.Net Core
-                  - Microsoft Azure
+                  - Angular 9; C#; Asp.Net Core; Microsoft Azure
 
 <b>Sou diligente, proativo, apaixonado por programação, inteligível e raciocínio ágil.. <br/>     
           
