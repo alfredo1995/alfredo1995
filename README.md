@@ -23,12 +23,12 @@ Experiência profissional:
 
 Estudando e desenvolvendo atualmente:
           
-                   - Angular 9
-                   - C#
-                   - Asp.Net Core
-                   - Microsoft Azure
+                  - Angular 9
+                  - C#
+                  - Asp.Net Core
+                  - Microsoft Azure
 
-<b>Sou motivado e apaixonado por programação. Tenho facilidade de aprendizado, raciocínio e concentração. <br/><br/>        
+<b>SDiligente, proativo, apaixonado por programação, inteligível e raciocínio ágil.. <br/>      
           
           
 [Contatos] <br/>
