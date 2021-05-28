@@ -3,7 +3,7 @@ Olá 👋
 
 Trabalho com desenvolvimento de software e sistemas Web. Certificação em Lógica de Programação; HTML5; JavaScript; Node.js; MySQL; PHP; POO e Laravel 8.
 
-                        HTML5; JavaScript; Node.js; MySQL; PHP; POO e Laravel 8.
+                  - HTML5; JavaScript; Node.js; MySQL; PHP; POO e Laravel 8.
                      
 Conhecimento por autodidata:
 
@@ -16,9 +16,9 @@ Conhecimento por autodidata:
                   
 Experiência profissional: 
 
-                    Prestação de serviços de programação de desenvolvimento de softwares e sistemas web: desenvolver,
-                    aplicar, criar API's e definir módulos, sistemas e software através da linguagem PHP: Framework Laravel 8 +
-                    Banco de dados relacionais MySQL + NPM Node.js + Template Bootstrap 5
+                  Prestação de serviços de programação de desenvolvimento de softwares e sistemas web: desenvolver,
+                  aplicar, criar API's e definir módulos, sistemas e software através da linguagem PHP: Framework Laravel 8 +
+                  Banco de dados relacionais MySQL + NPM Node.js + Template Bootstrap 5
 
 
 Estudando e desenvolvendo atualmente:
