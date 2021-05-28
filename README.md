@@ -31,9 +31,6 @@ Estudando e desenvolvendo atualmente:
 <b>SDiligente, proativo, apaixonado por programação, inteligível e raciocínio ágil.. <br/>      
           
           
-[Contatos] <br/>
-
-
 [TEL] 31995358198
 
 [Email] alfredogomes1995@gmail.com<br/>
