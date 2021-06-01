@@ -42,16 +42,3 @@ Estudando e desenvolvendo atualmente:
 &nbsp;<a href="https://my.indeed.com/p/alfredog-52cnbyc" target="_blank">&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>
 
-
-
-	@@ -10,6 +10,9 @@
-
-</p>
-
-
-
-
-
-
-
-<img src="https://camo.githubusercontent.com/de52f01c1b51f940c62156ed7eac67a887d92f5546a65fd380389c5c31a6c971/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d79617a616c646566696c696d6f6e6570696e746f26686964653d4d616b6566696c65266c61796f75743d636f6d70616374" height="150" alt="yazaldefilimonepinto" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo1995&amp;hide=Makefile&amp;layout=compact" style="max-width:100%;">
