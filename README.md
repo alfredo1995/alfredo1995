@@ -14,7 +14,7 @@ Conhecimento por autodidata:
                   - PDO para abstração de acesso aos dados
                   - Criação de API Rest e Webservice
                   
-Experiência profissional: Autonômo 
+Experiência profissional: Freelancer PHP / Laravel 8
                       
                   
                   Prestação de serviços de programação de desenvolvimento de softwares e sistemas web: desenvolver,
