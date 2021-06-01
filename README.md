@@ -51,16 +51,7 @@ Estudando e desenvolvendo atualmente:
 
 
 
-<p align="center">
 
-  <a href="https://www.instagram.com/oliveiraeliseu.cs/" target="_blank">
 
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Eliseu Oliveira" height="35" width="35" />
 
-  </a>
-
-  <a href="https://twitter.com/Eliseu_cshtml" target="_blank">
-
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Eliseu Oliveira" height="35" width="35" />
-
-  </a>
+<img src="https://camo.githubusercontent.com/de52f01c1b51f940c62156ed7eac67a887d92f5546a65fd380389c5c31a6c971/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d79617a616c646566696c696d6f6e6570696e746f26686964653d4d616b6566696c65266c61796f75743d636f6d70616374" height="150" alt="yazaldefilimonepinto" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazaldefilimonepinto&amp;hide=Makefile&amp;layout=compact" style="max-width:100%;">
