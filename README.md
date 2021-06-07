@@ -24,7 +24,7 @@ Experiência profissional: Freelancer PHP / Laravel 8
 
 Estudando e desenvolvendo atualmente:
           
-                  - Angular 9; C#; .NET 5; Asp.Net Core; Microsoft Azure
+                  - C#; .NET 5; Asp.Net Core; Microsoft Azure; Angular 9 e React.js
 
 <b>Sou diligente, proativo, apaixonado por programação, inteligível e raciocínio ágil.. <br/>     
           
