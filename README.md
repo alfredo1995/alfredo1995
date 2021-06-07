@@ -13,6 +13,8 @@ Conhecimento por autodidata:
                   - Aplicação no modelo de arquitetura MVC
                   - PDO para abstração de acesso aos dados
                   - Criação de API Rest e Webservice
+                  - Metodologia de design de software DDD + SOLID
+                  - Metodologia ágil para gestão e planejamento de projetos de software SCRUM
                   
 Experiência profissional: Freelancer PHP / Laravel 8
                       
