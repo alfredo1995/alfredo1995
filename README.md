@@ -3,7 +3,7 @@ Olá 👋
 
 Trabalho com desenvolvimento de software e sistemas Web. Certificação em:
 
-                  - Lógica de Programação; HTML5; JavaScript; Node.js; Angular 9; MySQL; SQLServer; PHP; POO; Laravel 8; C# e .NET 5;.
+                  - Lógica; HTML5; JavaScript; Node.js; Angular 9; MySQL; SQLServer; PHP; POO; Laravel 8; C# e .NET 5;.
                      
 Conhecimento por autodidata:
 
