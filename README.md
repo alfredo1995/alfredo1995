@@ -18,12 +18,20 @@ Conhecimento por autodidata:
                   
 Experiência profissional:
 
+                  Desenvolvedor Trainne .NET / ANGULAR 10
+                  Ketra Soluções Inteligentes  jun 2021 ( 1 mês ) 
+                  
+                  Utilizando C#, POO, .NET 5, ASP.NET Core, Entity Framework-core 6.0, Angular 10, 
+                  React.js, SQLServer, HTML, CSS e Plataforma de Nuvem Microsoft Azure
+
                   Freelancer PHP / Laravel 8 
-                  Dc Tecnologia em Soluções ( 1 mês )
+                  Dc Tecnologia em Soluções  maio - maio 2021 ( 1 mês )
                   
                   Prestação de serviços de programação de desenvolvimento de softwares e sistemas web: desenvolver,
                   aplicar, criar API's e definir módulos, sistemas e software através da linguagem PHP: Framework Laravel 8 +
                   Banco de dados relacionais MySQL + NPM Node.js + Template Bootstrap 5
+                  
+                  
 
 
 Estudando e desenvolvendo atualmente:
