@@ -9,7 +9,7 @@ Conhecimento por autodidata:
 
                   - Desenvolvimento web (HTML5 e JavaScript); 
                   - Banco de dados relacionais (MySQL e SQL Server);
-                  - Framework Web PHP (Laravel 8 e Bootstrap ); 
+                  - Framework (Laravel 8 , ASP.NET  , Angular 10 e Bootstrap ); 
                   - Sistema de Versionamento de código (Git / GitHub).
                   - Aplicação no modelo de arquitetura MVC
                   - PDO para abstração de acesso aos dados
