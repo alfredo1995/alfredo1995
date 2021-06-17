@@ -1,7 +1,4 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo1995&layout=compact)](https://github.com/alfredo1995/github-readme-stats)
-
-
 Olá 👋
 
 Trabalho com desenvolvimento de software e sistemas Web. Certificação em:
@@ -57,4 +54,7 @@ Estudando e desenvolvendo atualmente:
 </a>&nbsp;<a href="https://www.instagram.com/alfredogomesss/" target="_blank">&nbsp;
 &nbsp;<a href="https://my.indeed.com/p/alfredog-52cnbyc" target="_blank">&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo1995&layout=compact)](https://github.com/alfredo1995/github-readme-stats)
 
