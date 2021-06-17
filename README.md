@@ -16,8 +16,10 @@ Conhecimento por autodidata:
                   - Metodologia de design de software DDD + SOLID
                   - Metodologia ágil para gestão e planejamento de projetos de software SCRUM
                   
-Experiência profissional: Freelancer PHP / Laravel 8
-                      
+Experiência profissional:
+
+                  Freelancer PHP / Laravel 8 
+                  Dc Tecnologia em Soluções ( 1 mês )
                   
                   Prestação de serviços de programação de desenvolvimento de softwares e sistemas web: desenvolver,
                   aplicar, criar API's e definir módulos, sistemas e software através da linguagem PHP: Framework Laravel 8 +
