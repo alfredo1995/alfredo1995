@@ -1,3 +1,7 @@
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo1995&layout=compact)](https://github.com/alfredo1995/github-readme-stats)
+
+
 Olá 👋
 
 Trabalho com desenvolvimento de software e sistemas Web. Certificação em:
