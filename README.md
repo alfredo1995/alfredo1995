@@ -29,11 +29,8 @@ Experiência profissional:
                   Dc Tecnologia em Soluções  maio - maio 2021 ( 1 mês )
                   
                   Prestação de serviços de programação de desenvolvimento de softwares e sistemas web: desenvolver,
-                  aplicar, criar API's e definir módulos, sistemas e software através da linguagem PHP: Framework Laravel 8 +
-                  Banco de dados relacionais MySQL + NPM Node.js + Template Bootstrap 5
-                  
-                  
-
+                  através da linguagem PHP: Framework Laravel 8 + MySQL + NPM Node.js + Template Bootstrap 5                  
+                 
 
 Estudando e desenvolvendo atualmente:
           
