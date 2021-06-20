@@ -32,7 +32,7 @@ Experiência profissional:
                   através da linguagem PHP: Framework Laravel 8 + MySQL + NPM Node.js + Template Bootstrap 5                  
                  
 
-
+.
           
                   - Sou diligente, proativo, apaixonado por programação, inteligível e raciocínio ágil
                    
