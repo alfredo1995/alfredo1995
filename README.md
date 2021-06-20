@@ -26,7 +26,7 @@ Experiência profissional:
                   React.js, SQLServer, HTML, CSS e Plataforma de Nuvem Microsoft Azure
 
                   Freelancer PHP / Laravel 8 
-                  Dc Tecnologia em Soluções  maio - maio 2021 ( 1 mês )
+                  Dc Tecnologia em Soluções   maio 2021 ( 1 mês )
                   
                   Prestação de serviços de programação de desenvolvimento de softwares e sistemas web: desenvolver,
                   através da linguagem PHP: Framework Laravel 8 + MySQL + NPM Node.js + Template Bootstrap 5                  
