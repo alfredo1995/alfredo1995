@@ -3,13 +3,13 @@ Olá 👋
 
 Trabalho com desenvolvimento de software e sistemas Web. Certificação em:
 
-                  - Lógica; HTML5; JavaScript; Node.js; Angular 9; MySQL; SQLServer; PHP; POO; Laravel 8; C# e .NET 5;.
+                  - Lógica; HTML5; JavaScript; Node.js; Angular 10; MySQL; SQLServer; PHP; POO; Laravel 8; C# e .NET 5;.
                      
 Conhecimento por autodidata:
 
                   - Desenvolvimento web (HTML5 e JavaScript); 
                   - Banco de dados relacionais (MySQL e SQL Server);
-                  - Framework (Laravel 8 , ASP.NET  , Angular 10 e Bootstrap ); 
+                  - Framework (Laravel 8, .NET 5, Angular 10 e Bootstrap 5); 
                   - Sistema de Versionamento de código (Git / GitHub).
                   - Aplicação no modelo de arquitetura MVC
                   - PDO para abstração de acesso aos dados
