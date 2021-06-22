@@ -7,13 +7,8 @@ Trabalho com desenvolvimento de software e sistemas Web. Certificação em:
                      
 Conhecimento por autodidata:
 
-                  - Desenvolvimento web (HTML5 e JavaScript); 
-                  - Banco de dados relacionais (MySQL e SQL Server);
-                  - Framework (Laravel 8, .NET 5, Angular 10 e Bootstrap 5); 
                   - Sistema de Versionamento de código (Git / GitHub).
                   - Aplicação no modelo de arquitetura MVC
-                  - PDO para abstração de acesso aos dados
-                  - Criação de API Rest e Webservice
                   - Metodologia de design de software DDD + SOLID
                   - Metodologia ágil para gestão e planejamento de projetos de software SCRUM
                   
