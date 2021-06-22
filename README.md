@@ -22,8 +22,8 @@ Experiência profissional:
                   Desenvolvedor Trainne .NET / ANGULAR 10
                   Ketra Soluções Inteligentes  jun 2021 ( 1 mês ) 
                   
-                  Utilizando C#, POO, .NET 5, ASP.NET Core, Entity Framework-core 6.0, Angular 10, 
-                  React.js, SQLServer, HTML, CSS e Plataforma de Nuvem Microsoft Azure
+                  Utilizando C#, POO, .NET 5, ASP.NET Core, Entity Framework-core 6.0, Javascript, Angular 10, 
+                  Microsoft SQL Server e Microsoft Azure DevOps ( DDD + SOLID + SCRUM )
 
                   Freelancer PHP / Laravel 8 
                   Dc Tecnologia em Soluções   maio 2021 ( 1 mês )
