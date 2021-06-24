@@ -3,7 +3,7 @@ Olá 👋
 
 Trabalho com desenvolvimento de software e sistemas Web. Certificação em:
 
-                  - Lógica; HTML5; JavaScript; Node.js; Angular 10; MySQL; SQLServer; PHP; OO; Laravel 8; C#; .NET 5; Entity Framework-core, ASP.NET Core MVC e Microsoft Azure.
+    - Lógica; HTML5; JavaScript; Node.js; Angular 10; MySQL; SQLServer; PHP; OO; Laravel 8; C#; .NET 5; Entity Framework-core, ASP.NET Core MVC e Microsoft Azure.
                      
 Conhecimento por autodidata:
 
