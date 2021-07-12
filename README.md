@@ -3,23 +3,20 @@ Olá 👋
 
 Trabalho com desenvolvimento de software e sistemas Web. Certificação em:
 
-                  - Lógica; HTML5; JavaScript; Node.js; Angular 10; MySQL; SQLServer; PHP; OO; Laravel 8; 
-                  - C#; .NET 5; Entity Framework-core, ASP.NET Core e Azure DevOps.
+                  - Lógica; HTML5; JavaScript; Git; Node.js; Angular 10; MySQL; SQLServer; PHP; OO; Laravel 8; 
+                  - C#; .NET 5; ASP.NET Core; Entity Framework-core e Azure DevOps.
                      
-Conhecimento por autodidata:
-
-                  - Sistema de Versionamento de código (Git / GitHub).
-                  - Aplicação no modelo de arquitetura MVC
-                  - Metodologia de design de software DDD + SOLID
-                  - Metodologia ágil para gestão e planejamento de projetos de software SCRUM
-                  
+                 
 Experiência profissional:
 
-                  Desenvolvedor Trainne .NET / ANGULAR 10
+                  Desenvolvedor Trainne .NET / ANGULAR
                   Ketra Soluções Inteligentes  jun 2021 ( 3 mês ) 
                   
                   Utilizando C#, POO, .NET 5, ASP.NET Core, Entity Framework-core 6.0, Javascript, Angular 10, 
-                  Microsoft SQL Server e Azure DevOps ( DDD + SOLID + SCRUM )
+                  Microsoft SQL Server e Azure DevOps
+                  
+                  Metodologia de design de software DDD + SOLID
+                  Metodologia ágil para gestão e planejamento de projetos de software SCRUM
 
                   Freelancer PHP / Laravel 8 
                   Dc Tecnologia em Soluções   maio 2021 ( 1 mês )
