@@ -9,7 +9,7 @@ Trabalho com desenvolvimento de software e sistemas Web. Certificação em:
                  
 Experiência profissional:
 
-                  Desenvolvedor Trainne .NET / ANGULAR
+                  <b> Desenvolvedor Trainne .NET / ANGULAR </b>
                   Ketra Soluções Inteligentes  jun 2021 ( 3 mês ) 
                   
                   Utilizando C#, POO, .NET 5, ASP.NET Core, Entity Framework-core 6.0, Javascript, Angular 10, 
