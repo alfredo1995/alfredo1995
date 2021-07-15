@@ -23,10 +23,9 @@ Experiência profissional:
                   Freelancer PHP / Laravel 8 
                   Dc Tecnologia em Soluções   maio 2021 ( 1 mês )
                   
-                  Prestação de serviços de programação de desenvolvimento de softwares e sistemas web: desenvolver,
-                  através da linguagem PHP: Framework Laravel 8 + MySQL + NPM Node.js + Template Bootstrap 5                  
-                 
-
+                  Prestação de serviços de programação, atendendo o prazo de 30 dias para a entrega da demanda.
+                  Desenvolver módulos, sistemas e softwares utiliando PHP : Laravel 8 + MySQL + HTML 5 + Bootstrap 5          
+ 
                    
 [TEL] 31995358198
 
