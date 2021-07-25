@@ -27,8 +27,6 @@ Experiência profissional:
                   Desenvolver módulos, sistemas e softwares utiliando PHP : Laravel 8 + MySQL + HTML 5 + Bootstrap 5          
  
                    
-[TEL] 31995358198
-
 [Email] alfredogomes1995@gmail.com<br/>
 
 
