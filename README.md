@@ -1,7 +1,7 @@
 
 Olá 👋
 
-Sou Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades. Certificação em:
+Sou Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades.
 
                   - Lógica; HTML5; JavaScript; Git; Node.js; Angular 10; MySQL; SQLServer; PHP; OO; Laravel 8; 
                   - C#; .NET 5; ASP.NET Core; Entity Framework-core e Azure DevOps.
