@@ -1,9 +1,7 @@
 
 Olá 👋
 
-Sou Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades. 
-
-Certificação em:
+Sou Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades. Certificação em:
 
                   - Lógica; HTML5; JavaScript; Git; Node.js; Angular 10; MySQL; SQLServer; PHP; OO; Laravel 8; 
                   - C#; .NET 5; ASP.NET Core; Entity Framework-core e Azure DevOps.
@@ -14,7 +12,7 @@ Experiência profissional:
                   Desenvolvedor Trainne .NET / ANGULAR
                   Ketra Soluções Inteligentes  jun 2021 ( 3 mês ) 
                   
-                  Utilizando C#, POO, .NET 5, ASP.NET Core, Entity Framework-core 6.0, Javascript, Angular 10, 
+                  Utilizando C#, POO, .NET Core, ASP.NET Core, Entity Framework-core 6.0, Javascript, Angular 10, 
                   Microsoft SQL Server e Azure DevOps
                   
                   Metodologia de design de software DDD + SOLID
@@ -36,8 +34,6 @@ Experiência profissional:
 </a>&nbsp;<a href="https://www.instagram.com/alfredogomesss/" target="_blank">&nbsp;
 &nbsp;<a href="https://my.indeed.com/p/alfredog-52cnbyc" target="_blank">&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>
-
-</br>
 
 
 
