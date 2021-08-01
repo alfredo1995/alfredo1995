@@ -35,4 +35,4 @@ Experiência profissional:
 </a>
 
 
-alfredogomes1995@gmail.com<br
+alfredogomes1995@gmail.com.br
