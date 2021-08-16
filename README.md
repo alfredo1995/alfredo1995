@@ -3,19 +3,18 @@ Olá 👋
 
 Sou Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades.
 
-                  - Lógica; HTML5; JavaScript; Git; Node.js; Angular 10; MySQL; SQLServer; PHP; OO; Laravel 8; 
-                  - C#; .NET 5; ASP.NET Core; Entity Framework-core e Azure DevOps.
-                     
+                  - Lógica; HTML5; JavaScript; Node.js; Angular 10; Git; MySQL; SQLServer; PHP; Laravel 8; 
+                  - C#; OOP; .NET 5; ASP.NET Core; Entity Framework-core e Azure DevOps.                     
                  
 Experiência profissional:
 
                   Desenvolvedor Trainne .NET / ANGULAR
                   Ketra Soluções Inteligentes  jun 2021 ( 3 mês ) 
                   
-                  Utilizando C#, POO, .NET Core, ASP.NET Core, Entity Framework-core 6.0, Javascript, Angular 10, 
+                  Utilizando C#, .NET Core, ASP.NET Core, Entity Framework-core 6.0, Javascript, Angular 10, 
                   Microsoft SQL Server e Azure DevOps
                   
-                  Metodologia de design de software DDD + SOLID
+                  Modelagem de Domínios Ricos : OOP, SOLID, DDD e CQRS
                   Metodologia ágil para gestão e planejamento de projetos de software SCRUM
 
                   Freelancer PHP / Laravel 8 
