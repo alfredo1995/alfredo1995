@@ -41,5 +41,5 @@ Experiência profissional:
 
 ![alfredo1995's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredo1995&show_icons=true&theme=radical)
 
-
+<img align="center" src="https://camo.githubusercontent.com/f59e152506d5ddef06eaa959640f7b76df700412d5a191f439284de38d8509cc/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d6d6174657269616c2d70616c656e69676874" alt="alfredo1995's github stats" data-canonical-src="https://github-readme-stats.alfredo1995.vercel.app/api?username=alfredo1995&amp;show_icons=true&amp;include_all_commits=true&amp;theme=material-palenight" style="max-width:100%;">
 
