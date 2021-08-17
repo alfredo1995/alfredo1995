@@ -25,7 +25,9 @@ Experiência profissional:
  
                    
 
-<br/><a href="https://www.linkedin.com/in/alfredo1995/" target="_blank">
+<br></br>
+
+<a href="https://www.linkedin.com/in/alfredo1995/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>&nbsp;<a href="https://www.youtube.com/channel/UCXKSo8RSfVmrawXleZ-_arg" target="_blank">
 &nbsp;&nbsp;<img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
@@ -33,7 +35,7 @@ Experiência profissional:
 &nbsp;<a href="https://my.indeed.com/p/alfredog-52cnbyc" target="_blank">&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>
 
-<br></br><br></br>
+<br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo1995&langs_count=8)](https://github.com/alfredo1995/github-readme-stats)
 
