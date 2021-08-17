@@ -39,6 +39,7 @@ Experiência profissional:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo1995&langs_count=8)](https://github.com/alfredo1995/github-readme-stats)
 
+![alfredo1995's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredo1995&show_icons=true&theme=radical)
 
 
 
