@@ -23,9 +23,6 @@ Experiência profissional:
                   Prestação de serviços de programação, atendendo o prazo de 30 dias para a entrega da demanda.
                   Desenvolver módulos, sistemas e softwares utiliando PHP : Laravel 8 + MySQL + HTML 5 + Bootstrap 5          
  
-                   
-
-<br></br>
 
 <a href="https://www.linkedin.com/in/alfredo1995/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
