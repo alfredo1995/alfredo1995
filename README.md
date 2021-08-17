@@ -33,7 +33,7 @@ Experiência profissional:
 &nbsp;<a href="https://my.indeed.com/p/alfredog-52cnbyc" target="_blank">&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>
 
-<img src="https://camo.githubusercontent.com/9911bf1e126899ce0497383504ccf3c710edf6fb5548eaa59bfcff3e91e7a296/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d77696c6c69616e726f64266c61796f75743d636f6d70616374" alt="willianrod's wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&amp;layout=compact" style="max-width:100%;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo1995&langs_count=8)](https://github.com/alfredo1995/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo1995&layout=compact)](https://github.com/alfredo1995/github-readme-stats)
 
