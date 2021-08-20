@@ -34,5 +34,5 @@ Experiência profissional:
 
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredo1995&langs_count=8)](https://github.com/alfredo1995/github-readme-stats)
+
 
