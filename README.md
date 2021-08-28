@@ -1,6 +1,3 @@
-
-Olá 👋
-
 Sou Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades.
 
                   - Lógica; HTML5; JavaScript; Node.js; Angular 10; Git; MySQL; SQL Server; PHP; Laravel 8; 
