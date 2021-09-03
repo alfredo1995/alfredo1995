@@ -1,15 +1,15 @@
-Sou Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades.
+Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades.
 
-    - Lógica; HTML5; JavaScript; Node.js; Angular 10; Git; MySQL; SQL Server; PHP; Laravel 8; 
-    - C#; OOP; .NET Core; ASP.NET Core; Entity Framework-core e Azure DevOps.                                       
+    - Lógica; HTML5; Bootstrap; JavaScript; Angular 10; Node.js; MySQL; SQL Server; PHP; Laravel 8; 
+    - C#; OOP; .NET Core; ASP.NET Core; Entity Framework-core, Identy Server 4, Git e Azure DevOps.                                       
                  
 Experiência profissional:
 
     Desenvolvedor Trainne .NET / ANGULAR
      Ketra Soluções Inteligentes   maio - dez 2021 ( 6 mês ) 
                   
-     Desenvolvedor trainee utilizando C#, .NET Core, ASP.NET Core, Entity Framework-core 6.0, JavaScript, Bootstrap, Angular 10, 
-     Microsoft SQL Server e Azure DevOps
+     Desenvolvedor trainee utilizando C#, .NET Core, ASP.NET Core, Entity Framework-core 6.0, 
+     JavaScript, Bootstrap, Angular 10, Microsoft SQL Server e Azure DevOps
 
      Metodologia de design de software DDD, SOLID e CQRS.
      Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
