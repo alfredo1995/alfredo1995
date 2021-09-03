@@ -1,24 +1,26 @@
 Sou Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades.
 
-                  - Lógica; HTML5; JavaScript; Node.js; Angular 10; Git; MySQL; SQL Server; PHP; Laravel 8; 
-                  - C#; OOP; .NET 5; ASP.NET Core; Entity Framework-core e Azure DevOps.                     
+    - Lógica; HTML5; JavaScript; Node.js; Angular 10; Git; MySQL; SQL Server; PHP; Laravel 8; 
+    - C#; OOP; .NET Core; ASP.NET Core; Entity Framework-core e Azure DevOps.                                       
                  
 Experiência profissional:
 
-                  Desenvolvedor Trainne .NET / ANGULAR
-                  Ketra Soluções Inteligentes   maio - jun 2021 ( 3 mês ) 
+    Desenvolvedor Trainne .NET / ANGULAR
+     Ketra Soluções Inteligentes   maio - dez 2021 ( 6 mês ) 
                   
-                  Utilizando C#, .NET Core, ASP.NET Core, Entity Framework-core 6.0, Javascript, Angular 10, 
-                  Microsoft SQL Server e Azure DevOps
-                  
-                  Modelagem de Domínios Ricos : OOP, SOLID, DDD e CQRS
-                  Metodologia ágil para gestão e planejamento de projetos de software SCRUM
+     Desenvolvedor trainee utilizando C#, .NET Core, ASP.NET Core, Entity Framework-core 6.0, JavaScript, Bootstrap, Angular 10, 
+     Microsoft SQL Server e Azure DevOps
 
-                  Desenvolvedor Freelancer PHP / Laravel 8 
-                  Workana   maio 2021 ( 1 mês )
+     Metodologia de design de software DDD, SOLID e CQRS.
+     Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
+     Desenvolvimento de soluções inteligentes para atender os requisitos do cliente.
+     Documentação de Processos internos e criação de scripts de testes a partir de requisitos
+
+    Desenvolvedor Freelancer PHP / Laravel 8 
+     Workana   maio 2021 ( 1 mês )
                   
-                  Prestação de serviços de programação, atendendo o prazo de 30 dias para a entrega da demanda.
-                  Desenvolver módulos, sistemas e softwares utiliando PHP : Laravel 8 + MySQL + HTML 5 + Bootstrap 5          
+     Prestação de serviços de programação, atendendo o prazo de 30 dias para a entrega da demanda.
+     Desenvolver módulos, sistemas e softwares utiliando PHP : Laravel 8 + MySQL + HTML 5 + Bootstrap 5          
  
 
 <a href="https://www.linkedin.com/in/alfredo1995/" target="_blank">
