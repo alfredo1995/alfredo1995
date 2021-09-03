@@ -1,7 +1,7 @@
 Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades.
 
                 
-    Desenvolvedor Trainne .NET / ANGULAR
+Desenvolvedor Trainne .NET / ANGULAR
      Ketra Soluções Inteligentes   maio - dez 2021 ( 6 mês ) 
                   
      Desenvolvedor trainee utilizando C#, .NET Core, ASP.NET Core, Entity Framework-core 6.0, 
@@ -11,7 +11,7 @@ Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busc
      Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
      Documentação de Processos internos e criação de scripts de testes a partir de requisitos
 
-    Desenvolvedor Freelancer PHP / Laravel 8 
+Desenvolvedor Freelancer PHP / Laravel 8 
      Workana   maio 2021 ( 1 mês )
                   
      Prestação de serviços de programação, atendendo o prazo de 30 dias para a entrega da demanda.        
