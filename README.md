@@ -3,7 +3,7 @@
 
 <br>
   
-    Desenvolvedor Trainne .NET / ANGULAR
+      <b>Desenvolvedor Trainne .NET / ANGULAR</b> 
      Ketra Soluções Inteligentes   maio - dez 2021 ( 6 mês ) 
                   
      Desenvolvedor trainee utilizando C#, .NET Core, ASP.NET Core, Entity Framework-core 6.0, 
