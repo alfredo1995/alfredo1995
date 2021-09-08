@@ -3,23 +3,23 @@
 
 <br>
   
-      <b>Desenvolvedor Trainne .NET / ANGULAR</b> 
-     Ketra Soluções Inteligentes   maio - dez 2021 ( 6 mês ) 
-                  
-     Desenvolvedor trainee utilizando C#, .NET Core, ASP.NET Core, Entity Framework-core 6.0, 
-     JavaScript, Bootstrap, Angular 10, Microsoft SQL Server e Azure DevOps
+    Desenvolvedor Trainne .NET / ANGULAR 
+         Ketra Soluções Inteligentes   maio - dez 2021 ( 6 mês ) 
 
-     Metodologia de design de software DDD, SOLID e CQRS.
-     Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
-     Documentação de Processos internos e criação de scripts de testes a partir de requisitos
+         Desenvolvedor trainee utilizando C#, .NET Core, ASP.NET Core, Entity Framework-core 6.0, 
+         JavaScript, Bootstrap, Angular 10, Microsoft SQL Server e Azure DevOps
+
+         Metodologia de design de software DDD, SOLID e CQRS.
+         Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
+         Documentação de Processos internos e criação de scripts de testes a partir de requisitos
 
     Desenvolvedor Freelancer PHP / Laravel 8 
-     Workana   maio 2021 ( 1 mês )
-                  
-     Prestação de serviços de programação, atendendo o prazo de 30 dias para a entrega da demanda.        
-     Desenvolvimento de soluções inteligentes para atender os requisitos do cliente. utilizando: 
-     
-     PHP, Laravel 8, MySQL, HTML 5, Bootstrap Admin 5 e Git
+         Workana   maio 2021 ( 1 mês )
+
+         Prestação de serviços de programação, atendendo o prazo de 30 dias para a entrega da demanda.        
+         Desenvolvimento de soluções inteligentes para atender os requisitos do cliente. utilizando: 
+
+         PHP, Laravel 8, MySQL, HTML 5, Bootstrap Admin 5 e Git
 
 
 <a href="https://www.linkedin.com/in/alfredo1995/" target="_blank">
