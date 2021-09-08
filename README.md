@@ -1,6 +1,8 @@
-Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades.
+    Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, 
+    que proporcione crescimento e perspectiva de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades.
 
-                
+<br><Br>
+  
     Desenvolvedor Trainne .NET / ANGULAR
      Ketra Soluções Inteligentes   maio - dez 2021 ( 6 mês ) 
                   
