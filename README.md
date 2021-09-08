@@ -13,6 +13,7 @@
          Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
          Documentação de Processos internos e criação de scripts de testes a partir de requisitos
 <br>
+
     Desenvolvedor Freelancer PHP / Laravel 8 
          Workana   maio 2021 ( 1 mês )
 
