@@ -4,7 +4,7 @@
 <br>
   
     Desenvolvedor Trainne .NET / ANGULAR 
-       Ketra Soluções Inteligentes   maio - dez 2021 ( 6 meses ) 
+       Ketra Soluções Inteligentes   maio - nov 2021 ( 6 meses ) 
 
         Desenvolvedor trainee utilizando C#, .NET Core, ASP.NET Core, Entity Framework-core 6.0, 
         JavaScript, Angular 10, Microsoft SQL Server e Azure DevOps
