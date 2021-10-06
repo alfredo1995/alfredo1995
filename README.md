@@ -20,10 +20,10 @@
     Desenvolvedor Freelancer PHP / Laravel 8 
        Workana   maio 2021 ( 1 mês )
 
-         Prestação de serviços de programação, atendendo o prazo de 30 dias para a entrega da demanda.        
-         Desenvolvimento de soluções inteligentes para atender os requisitos do cliente. utilizando: 
-
-         PHP, Laravel 8, MySQL, HTML 5, Bootstrap Admin 5, Javascript e Git
+         Prestação de serviços de programação. Desenvolvimento de soluções inteligentes para
+         atender os requisitos do cliente com prazo de 30 dias para a entrega da demanda. 
+         
+         utilizando: PHP, Laravel 8, MySQL, HTML 5, Bootstrap Admin 5, Javascript e Git
 
 
 <a href="https://www.linkedin.com/in/alfredo1995/" target="_blank">
