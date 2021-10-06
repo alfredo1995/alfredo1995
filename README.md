@@ -4,7 +4,7 @@
 <br>
   
     Desenvolvedor Trainne .NET / ANGULAR 
-         Ketra Soluções Inteligentes   maio - dez 2021 ( 6 meses ) 
+       Ketra Soluções Inteligentes   maio - dez 2021 ( 6 meses ) 
 
         Desenvolvedor trainee utilizando C#, .NET Core, ASP.NET Core, Entity Framework-core 6.0, 
         JavaScript, Angular 10, Microsoft SQL Server e Azure DevOps
@@ -13,17 +13,17 @@
         Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
         Desenvolvimento e manutenção de API's REST com testes unitários e testes de integração
 
-        Atuando com foco em desenvolvimento Backend no sistema da Fundação Renova. Uma entidade responsável
-        pela mobilização para a reparação dos danos causados pelo rompimento da barragem de Fundão, em Mariana (MG).
+        Atuando com foco em desenvolvimento Backend no sistema da Fundação Renova. Entidade responsável pela
+        mobilização para a reparação dos danos causados pelo rompimento da barragem de Fundão, em Mariana (MG).
 <br>
 
     Desenvolvedor Freelancer PHP / Laravel 8 
-         Workana   maio 2021 ( 1 mês )
+       Workana   maio 2021 ( 1 mês )
 
          Prestação de serviços de programação, atendendo o prazo de 30 dias para a entrega da demanda.        
          Desenvolvimento de soluções inteligentes para atender os requisitos do cliente. utilizando: 
 
-         PHP, Laravel 8, MySQL, HTML 5, Bootstrap Admin 5 e Git
+         PHP, Laravel 8, MySQL, HTML 5, Bootstrap Admin 5, Javascript e Git
 
 
 <a href="https://www.linkedin.com/in/alfredo1995/" target="_blank">
