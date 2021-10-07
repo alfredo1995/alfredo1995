@@ -27,8 +27,8 @@
          
 <br>
 
-    Ensino Superior Analise e desenvolvimento de sistema
-        Faculdade Descomplica   cursando set 2021
+    Cursando Ensino Superior 
+        Faculdade Descomplica - Analise e desenvolvimento de sistema
             
           Curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas na Faculdade Descomplica com os objetivos
           de capacitar, documentar, testar e implementar Sistemas de Informação aderentes aos objetivos estratégicos das organizações
