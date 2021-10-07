@@ -18,12 +18,12 @@
 <br>
 
     Desenvolvedor Freelancer PHP / Laravel 8 
-       Workana   maio 2021 ( 1 mês )
+       Workana   abil - maio 2021 ( 1 mês )
 
          Desenvolvimento de soluções inteligentes para atender os requisitos do cliente utilizando: PHP, Laravel 8, 
          MySQL, HTML 5, CSS3, Bootstrap Admin 5, Javascript e sistema de versionamento de códigos Git
        
-         aplicando padrão de arquitetura de software MVC.
+         Desenvolvimento das aplicações usando padrão de arquitetura de software MVC.
 
 <div>
    <p align="center">
