@@ -24,6 +24,14 @@
          MySQL, HTML 5, CSS3, Bootstrap Admin 5, Javascript e sistema de versionamento de códigos Git
        
          Desenvolvimento das aplicações usando padrão de arquitetura de software MVC.
+         
+<br>
+
+    Formação Acadêmica
+        Faculdade Descomplica   set 2021
+            
+          Curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas na Faculdade Descomplica com os objetivos
+          de capacitar, documentar, testar e implementar Sistemas de Informação aderentes aos objetivos estratégicos das organizações
 
 <div>
    <p align="center">
