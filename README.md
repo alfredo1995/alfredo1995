@@ -33,9 +33,7 @@
     </a>&nbsp;<a href="https://img.shields.io/youtube/channel/subscribers/UCXKSo8RSfVmrawXleZ-_arg?style=social" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>&nbsp;<a href="https://www.youtube.com/channel/UCXKSo8RSfVmrawXleZ-_arg" target="_blank">
-&nbsp;&nbsp;<img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
-</a>&nbsp;<a href="https://www.instagram.com/alfredogomesss/" target="_blank">&nbsp;
-&nbsp;<a href="https://my.indeed.com/p/alfredog-52cnbyc" target="_blank">&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
+&nbsp;&nbsp;<a href="https://my.indeed.com/p/alfredog-52cnbyc" target="_blank">&nbsp;&nbsp;<img src="https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M" alt="rails" width="40" height="40" style="max-width: 100%;"></img>
 </a>
   </p>
 </div>
