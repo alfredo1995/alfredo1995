@@ -1,7 +1,9 @@
+<h1 align= "center"><b>Ele | He/His 🙋‍♂️. Olá eu sou o Alfredo | I am Alfredo </b></h1>
+<p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
+
     Desenvolvedor de software e sistemas web, autodidata e incansável aprendiz busca atuação em um ambiente dinâmico, 
     que proporcione crescimento de carreira para aplicar conhecimentos adquiridos e desenvolver novas habilidades.
 
-<p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
 <br>
   
     Desenvolvedor Trainne .NET / ANGULAR 
