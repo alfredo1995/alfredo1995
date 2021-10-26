@@ -1,4 +1,4 @@
-    Desenvolvedor de software e sistemas web, autodidata aplicando conhecimentos adquiridos e desenvolver novs habilidads
+    Desenvolvedor de software e sistemas web, autodidata aplicando conhecimentos adquiridos e desenvolver novas habilidades
 
 <br>
   
