@@ -30,7 +30,7 @@
         Faculdade Descomplica - Analise e desenvolvimento de sistema
             
           Curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas com os objetivos de capacitar, 
-          documentar, testar e implementar Sistemas de Informação aderentes aos objetivos estratégicos das organizações
+          testar e implementar Sistemas de Informação aderentes aos objetivos estratégicos das organizações
 
 <div>
    <p align="center">
