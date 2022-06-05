@@ -31,7 +31,7 @@
     Curso Superior de Tecnologia (CST) 
         Universidade Estácio - Analise e desenvolvimento de sistema
             
-        Ensino Superior em Análise e Desenvolvimento de Sistemas ensina a manutenção de sistemas computacionais e software.
+        Ensino Superior em Análise e Desenvolvimento de Sistemas em manutenção de sistemas computacionais e software.
 
 <div>
    <p align="center">
