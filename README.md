@@ -28,11 +28,10 @@
          
 <br>
 
-    Cursando Ensino Superior 
-        Faculdade Descomplica - Analise e desenvolvimento de sistema
+    Curso Superior de Tecnologia (CST) 
+        Universidade Estácio - Analise e desenvolvimento de sistema
             
-          Curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas com os objetivos de capacitar, 
-          testar e implementar Sistemas de Informação aderentes aos objetivos estratégicos das organizações
+        Ensino Superior em Análise e Desenvolvimento de Sistemas ensina a cuidar da manutenção de sistemas computacionais e software.
 
 <div>
    <p align="center">
