@@ -21,10 +21,10 @@
     Desenvolvedor Freelancer PHP / Laravel 8 
        Workana trabalho freelancer   abil - maio 2021 ( 1 mês )
 
-        Desenvolvimento de soluções inteligentes para atender os requisitos do cliente utilizando: PHP, Laravel 8, 
-        MySQL, HTML 5, CSS3, Bootstrap Admin 5, Javascript e sistema de versionamento de códigos Git
+       Prestação de serviços de programação fazendo a migração de sistema em PHP puro para Laravel 8. 
+       Atendendo os requisitos do cliente em fazer apenas a mudança estrutural com prazo de 30 dias.
        
-        Desenvolvimento de aplicações usando padrão de arquitetura de software MVC.
+       Utilizando: php, composer.json (laravel). MySQL, bootstrap admin 5 e git
          
 <br>
 
