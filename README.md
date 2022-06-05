@@ -5,12 +5,14 @@
     Desenvolvedor Trainne .NET / ANGULAR 
        Ketra Soluções Inteligentes   maio - nov 2021 ( 6 meses ) 
 
-        Desenvolvedor trainee utilizando C#, .NET Core, ASP.NET Core, Entity Framework-core 6.0, 
-        JavaScript, Angular 10, Microsoft SQL Server e Azure DevOps
+        Desenvolvedor trainee utilizando C#, Programação orientada a objetos (POO), Microsoft SQL Server,
+        Entity Framework Core 6.0 (ORM), ASP.NET Core Web API (REST), Single Page Application (Angular),
+        Versionamento de Códigos (Git) e Azure DevOps (Boards e Repos).
 
-        Metodologia de design de software DDD, SOLID e CQRS.
+        Desenvolvimento de API em REST.
+        Metodologia de design de software DDD
+        Testes unitários em funções ou métodos isolados do sistema
         Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
-        Desenvolvimento e manutenção de API's REST com testes unitários e testes de integração
 
         Atuando com foco em desenvolvimento Backend no sistema da Fundação Renova. Entidade responsável pela
         mobilização para a reparação dos danos causados pelo rompimento da barragem de Fundão, em Mariana (MG).
