@@ -14,7 +14,6 @@
         estrelas, etc.), é um tema conhecido na ficção científica, bem como uma questão de pesquisa científica
         recente e engenharia exploratória
 
-<br>
 
 <br>
   
