@@ -1,5 +1,12 @@
     Desenvolvedor de software e sistemas web, aplicando conhecimentos adquiridos e desenvolver novs habilidades
-    
+ 
+<br>
+
+    Curso Superior de Tecnologia (CST) 
+        Universidade Estácio - Analise e desenvolvimento de sistema
+            
+        Ensino Superior em Análise e Desenvolvimento de Sistemas e software. 
+ 
 <br>
   
     Desenvolvedor Unity / Estágio 
@@ -43,12 +50,7 @@
        
        Atuei 1 mes na migração da estrutura de um sistema legado em php para o framework Laravel
          
-<br>
 
-    Curso Superior de Tecnologia (CST) 
-        Universidade Estácio - Analise e desenvolvimento de sistema
-            
-        Ensino Superior em Análise e Desenvolvimento de Sistemas e software.
 
 <div>
    <p align="center">
