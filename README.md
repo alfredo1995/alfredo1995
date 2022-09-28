@@ -26,6 +26,9 @@
         Desenvolvimento de API em REST.
         Metodologia de design de software DDD
         Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
+        
+        Atuando com foco em desenvolvimento Backend no sistema da Fundação Renova. Entidade responsável pela
+        mobilização para a reparação dos danos causados pelo rompimento da barragem de Fundão, Mariana (MG).
 
 <br>
 
