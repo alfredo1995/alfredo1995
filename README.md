@@ -18,7 +18,7 @@
 
 <br>
   
-    Desenvolvedor Trainne - .NET 
+    Desenvolvedor .NET  - Trainne
        Ketra Soluções Inteligentes| maio - nov 2021 ( 6 meses ) 
 
         Desenvolvedor trainee utilizando C#, Programação orientada a objetos, Microsoft SQL Server,
@@ -33,7 +33,7 @@
 
 <br>
 
-    Desenvolvedor Freelancer - PHP
+    Desenvolvedor PHP - Freelancer
        Workana trabalho freelancer | abil - maio 2021 ( 1 mês )
 
        Desenvolvedor freelance utilizando PHP, MySQL, Laravel 8 e Bootstrap
