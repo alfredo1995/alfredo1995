@@ -1,17 +1,31 @@
     Desenvolvedor de software e sistemas web, aplicando conhecimentos adquiridos e desenvolver novs habilidades
+    
+<br>
+  
+    Desenvolvedor Unity / Estágio 
+       PlaySTEM Academy | 09//2021 a 03/ 2022 (6 meses) 
+
+        Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos, SQLite, SCRUM e GIT
+
+        Construção de Scripts Monobehaviour em C# para Unity Engine.
+
+        Atuando com foco em desenvolvimento de Scripts que comunique com o Astronomy Engine, ou engenharia
+        astronômica, ou seja, engenharia envolvendo operações com objetos astronômicos inteiros (planetas,
+        estrelas, etc.), é um tema conhecido na ficção científica, bem como uma questão de pesquisa científica
+        recente e engenharia exploratória
+
+<br>
 
 <br>
   
     Desenvolvedor Trainne .NET / ANGULAR 
        Ketra Soluções Inteligentes   maio - nov 2021 ( 6 meses ) 
 
-        Desenvolvedor trainee utilizando C#, Programação orientada a objetos (POO), Microsoft SQL Server,
-        Entity Framework Core 6.0 (ORM), ASP.NET Core Web API (REST), Single Page Application (Angular),
-        Versionamento de Códigos (Git) e Azure DevOps (Boards e Repos).
+        Desenvolvedor trainee utilizando C#, Programação orientada a objetos, Microsoft SQL Server,
+        Entity Framework Core 6.0, ASP.NET Core Web API e GIT
 
         Desenvolvimento de API em REST.
         Metodologia de design de software DDD
-        Testes unitários em funções ou métodos isolados do sistema
         Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
 
 <br>
@@ -19,17 +33,20 @@
     Desenvolvedor Freelancer PHP / Laravel 8 
        Workana trabalho freelancer   abil - maio 2021 ( 1 mês )
 
-       Prestação de serviços de programação fazendo a migração de sistema em PHP puro para Laravel 8. 
-       Atendendo os requisitos do cliente em fazer apenas a mudança estrutural com prazo de 30 dias.
+       Desenvolvedor freelance utilizando PHP, MySQL, Laravel 8 e Bootstrap
        
-       Utilizando: php, composer.json (laravel). MySQL, bootstrap admin 5 e git
+       Arquitetura de software MVC
+       Desenvolvimento de API utilizando a linguagem PHP
+       Desenvolvimento em Bootstrap pelo framework Laravel 8
+       
+       Atuei 1 mes na migração da estrutura de um sistema legado em php para o framework Laravel
          
 <br>
 
     Curso Superior de Tecnologia (CST) 
         Universidade Estácio - Analise e desenvolvimento de sistema
             
-        Ensino Superior em Análise e Desenvolvimento de Sistemas em manutenção de sistemas computacionais e software.
+        Ensino Superior em Análise e Desenvolvimento de Sistemas e software.
 
 <div>
    <p align="center">
