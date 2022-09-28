@@ -3,7 +3,7 @@
  
 <br>
   
-    Desenvolvedor Unity / Estágio 
+    Desenvolvedor Unity - Estágio 
        PlaySTEM Academy | 09//2021 a 03/ 2022 (6 meses) 
 
         Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos, SQLite, SCRUM e GIT
@@ -18,7 +18,7 @@
 
 <br>
   
-    Desenvolvedor Trainne .NET 
+    Desenvolvedor Trainne - .NET 
        Ketra Soluções Inteligentes| maio - nov 2021 ( 6 meses ) 
 
         Desenvolvedor trainee utilizando C#, Programação orientada a objetos, Microsoft SQL Server,
@@ -33,7 +33,7 @@
 
 <br>
 
-    Desenvolvedor Freelancer PHP
+    Desenvolvedor Freelancer - PHP
        Workana trabalho freelancer | abil - maio 2021 ( 1 mês )
 
        Desenvolvedor freelance utilizando PHP, MySQL, Laravel 8 e Bootstrap
