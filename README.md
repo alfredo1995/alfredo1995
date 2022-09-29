@@ -49,7 +49,7 @@
     Desenvolvedor PHP - Freelancer
        Workana trabalho freelancer | abil - maio 2021 ( 1 mês )
 
-        Contrato de 1 mês como Freelance responsável pelo desenvolvimento de telas com Bootstrap pelo framework Laravel 8
+        Contrato de 1 mês como Freelance desenvolvendo telas com Bootstrap pelo framework Laravel 8
         através da linguagem PHP. Utilizando o banco de Dados Relacionais MySQL
 <br>
 
