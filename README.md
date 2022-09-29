@@ -22,7 +22,7 @@
     Desenvolvedor .NET  - Trainne
        Ketra Soluções Inteligentes| maio - nov 2021 ( 6 meses ) 
 
-        Desenvolvedor trainee utilizando C#, Programação orientada a objetos, Git, Microsoft SQL Server, Entity Framework Core 6.0 e ASP.NET Core
+        Desenvolvedor trainee utilizando C#, Programação orientada a objetos, Git, SQL Server, Entity Framework Core e ASP.NET Core
 
         Metodologia de design de software DDD.
         Desenvolvimento de REST API utilizando a linguagem C#
