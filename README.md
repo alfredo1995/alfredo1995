@@ -10,8 +10,9 @@
 
         Estudando criação de scripts em C# usando Unity Engine;
         Estudando boas práticas na escrita de software Clean Code;
+        Estudando integração de API REST em projetos Unity;
         Estudando princípios de design de software SOLID;
-        Estudando Inglês Básico ao Avançado;
+        Estudando Inglês Básico;
 
  
 <br>
