@@ -53,8 +53,8 @@
         através da linguagem PHP. Utilizando o banco de Dados Relacionais MySQL
 <br>
 
-    Curso Superior de Tecnologia (CST) - 2022 / 2025
-       Universidade Estácio - Analise e desenvolvimento de sistema
+    Curso Superior de Tecnologia (CST) 
+       Universidade Estácio de Sá  | 2022 - 2025
             
        Ensino Superior em Análise e Desenvolvimento de Sistemas e software.          
 
