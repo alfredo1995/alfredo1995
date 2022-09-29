@@ -1,5 +1,11 @@
-    Desenvolvedor de software e sistemas web, aplicando conhecimentos adquiridos e desenvolver novs habilidades
- 
+    Desenvolvedor / Programador C#, aplicando conhecimentos adquiridos e desenvolvendo novas habilidades
+
+    Conhecimentos em programação, orientação a objetos e algoritmos;    
+    Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
+    Conhecimento com sistemas de controle de versão (GIT);
+    Conhecimento em metodologias ágeis e seus  rituais;
+    Domínio da IDE (VisualStudio e VisualStudio Code);
+
  
 <br>
   
@@ -9,7 +15,7 @@
         Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos e GIT
 
         Construção de Scripts Monobehaviour em C# usando Unity Engine.
-        Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
+        Metodologia ágil para gestão e planejamento de projetos de software.
 
         Atuando com foco em desenvolvimento de Scripts que comunique com o Astronomy Engine, ou engenharia astronômica,
         engenharia envolvendo operações com objetos astronômicos inteiros(planetas, estrelas, etc.), é um tema 
