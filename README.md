@@ -1,10 +1,17 @@
-    Desenvolvedor / Programador C#, aplicando conhecimentos adquiridos e desenvolvendo novas habilidades
+      
 
-    Conhecimentos em programação, orientação a objetos e algoritmos;    
-    Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
-    Conhecimento com sistemas de controle de versão (GIT);
-    Conhecimento em metodologias ágeis e seus  rituais;
-    Domínio da IDE (VisualStudio e VisualStudio Code);
+        Desenvolvedor / Programador C#, aplicando conhecimentos adquiridos e desenvolvendo novas habilidades
+
+        Conhecimentos em programação, orientação a objetos e algoritmos; 
+        Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
+        Conhecimento com sistemas de controle de versão (GIT);
+        Conhecimento em metodologias ágeis e seus rituais;
+        Domínio da IDE (VisualStudio e VisualStudio Code);
+
+        Estudando criação de scripts em C# usando Unity Engine;
+        Estudando boas práticas na escrita de software Clean Code;
+        Estudando princípios de design de software SOLID;
+        Estudando Inglês Básico ao Avançado;
 
  
 <br>
