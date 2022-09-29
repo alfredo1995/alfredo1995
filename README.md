@@ -6,14 +6,12 @@
     Desenvolvedor Unity - Estágio 
        PlaySTEM Academy | 09//2021 a 03/ 2022 (6 meses) 
 
-        Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos, SQL, SCRUM e GIT
+        Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos e GIT
 
         Construção de Scripts Monobehaviour em C# para Unity Engine.
+        Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
 
-        Atuando com foco em desenvolvimento de Scripts que comunique com o Astronomy Engine, ou engenharia
-        astronômica, ou seja, engenharia envolvendo operações com objetos astronômicos inteiros (planetas,
-        estrelas, etc.), é um tema conhecido na ficção científica, bem como uma questão de pesquisa científica
-        recente e engenharia exploratória
+        Atuando com foco em desenvolvimento de Scripts que comunique com o Astronomy Engine, ou engenharia astronômica, ou seja, engenharia envolvendo               operações com objetos astronômicos inteiros (planetas, estrelas, etc.), é um tema conhecido na ficção científica, bem como uma questão de pesquisa           científica recente e engenharia exploratória.
 
 
 <br>
@@ -21,28 +19,22 @@
     Desenvolvedor .NET  - Trainne
        Ketra Soluções Inteligentes| maio - nov 2021 ( 6 meses ) 
 
-        Desenvolvedor trainee utilizando C#, Programação orientada a objetos, Microsoft SQL Server,
-        Entity Framework Core 6.0, ASP.NET Core Web API e GIT
+        Desenvolvedor trainee utilizando C#, Programação orientada a objetos, Git, Microsoft SQL Server, Entity Framework Core 6.0 e ASP.NET Core
 
-        Desenvolvimento de API em REST.
-        Metodologia de design de software DDD
+        Metodologia de design de software DDD.
+        Desenvolvimento de REST API utilizando a linguagem C#
         Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
-        
-        Atuando com foco em desenvolvimento Backend no sistema da Fundação Renova. Entidade responsável pela
-        mobilização para a reparação dos danos causados pelo rompimento da barragem de Fundão, Mariana (MG).
+
+        Atuando com foco em desenvolvimento Backend no sistema da Fundação Renova. Entidade responsável pela mobilização para a reparação dos danos causados         pelo rompimento da barragem de Fundão, Mariana (MG).
 
 <br>
 
     Desenvolvedor PHP - Freelancer
        Workana trabalho freelancer | abil - maio 2021 ( 1 mês )
 
-       Desenvolvedor freelance utilizando PHP, MySQL, Laravel 8 e Bootstrap
-       
-       Arquitetura de software MVC
-       Desenvolvimento de API utilizando a linguagem PHP
-       Desenvolvimento em Bootstrap pelo framework Laravel 8
-       
-       Atuei 1 mes na migração da estrutura de um sistema legado em php para o framework Laravel
+        Desenvolvedor freelance utilizando PHP, Laravel, MySQL e GIT
+
+        contrato de 1 mês desenvolvendo telas em Bootstrap pelo framework Laravel 8
 <br>
 
     Curso Superior de Tecnologia (CST) 
