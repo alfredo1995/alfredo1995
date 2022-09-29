@@ -11,10 +11,9 @@
         Construção de Scripts Monobehaviour em C# para Unity Engine.
         Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
 
-        Atuando com foco em desenvolvimento de Scripts que comunique com o Astronomy Engine, 
-        ou engenharia astronômica, engenharia envolvendo operações com objetos astronômicos inteiros
-        (planetas, estrelas, etc.), é um tema conhecido na ficção científica, bem como uma questão de pesquisa
-        científica recente e engenharia exploratória.
+        Atuando com foco em desenvolvimento de Scripts que comunique com o Astronomy Engine, ou engenharia astronômica,
+        engenharia envolvendo operações com objetos astronômicos inteiros(planetas, estrelas, etc.), 
+        é um tema conhecido na ficção científica, bem como uma questão de pesquisa científica recente e engenharia exploratória.
 
 
 <br>
