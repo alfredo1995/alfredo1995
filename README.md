@@ -4,11 +4,11 @@
 <br>
   
     Desenvolvedor Unity - Estágio 
-       PlaySTEM Academy | 09//2021 a 03/ 2022 (6 meses) 
+       PlaySTEM Academy | 09/2021 a 03/ 2022 (6 meses) 
 
         Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos e GIT
 
-        Construção de Scripts Monobehaviour em C# para Unity Engine.
+        Construção de Scripts Monobehaviour em C# usando Unity Engine.
         Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
 
         Atuando com foco em desenvolvimento de Scripts que comunique com o Astronomy Engine, ou engenharia astronômica,
