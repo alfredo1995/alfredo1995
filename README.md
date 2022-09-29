@@ -11,7 +11,10 @@
         Construção de Scripts Monobehaviour em C# para Unity Engine.
         Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
 
-        Atuando com foco em desenvolvimento de Scripts que comunique com o Astronomy Engine, ou engenharia astronômica, ou seja, engenharia envolvendo               operações com objetos astronômicos inteiros (planetas, estrelas, etc.), é um tema conhecido na ficção científica, bem como uma questão de pesquisa           científica recente e engenharia exploratória.
+        Atuando com foco em desenvolvimento de Scripts que comunique com o Astronomy Engine, 
+        ou engenharia astronômica, engenharia envolvendo operações com objetos astronômicos inteiros
+        (planetas, estrelas, etc.), é um tema conhecido na ficção científica, bem como uma questão de pesquisa
+        científica recente e engenharia exploratória.
 
 
 <br>
@@ -25,7 +28,8 @@
         Desenvolvimento de REST API utilizando a linguagem C#
         Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
 
-        Atuando com foco em desenvolvimento Backend no sistema da Fundação Renova. Entidade responsável pela mobilização para a reparação dos danos causados         pelo rompimento da barragem de Fundão, Mariana (MG).
+        Atuando com foco em desenvolvimento Backend no sistema da Fundação Renova. Entidade responsável pela mobilização para a 
+        reparação dos danos causados pelo rompimento da barragem de Fundão, Mariana (MG).
 
 <br>
 
