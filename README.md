@@ -22,9 +22,8 @@
 
         Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos e GIT
 
-        Construção de Scripts Monobehaviour em C# usando Unity Engine.
-        Metodologia ágil para gestão e planejamento de projetos de software.
-
+        Construção de scripts C# para jogos Unity;
+        
         Atuando com foco em desenvolvimento de Scripts que comunique com o Astronomy Engine, ou engenharia astronômica,
         engenharia envolvendo operações com objetos astronômicos inteiros(planetas, estrelas, etc.), é um tema 
         conhecido na ficção científica, bem como uma questão de pesquisa científica recente e engenharia exploratória.
