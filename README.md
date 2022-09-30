@@ -49,7 +49,7 @@
        Workana trabalho freelancer | abil - maio 2021 ( 1 mês )
 
         Contrato de 1 mês como Freelance desenvolvendo telas com Bootstrap pelo framework Laravel 8
-        através da linguagem PHP. Utilizando o banco de Dados Relacionais MySQL
+        através da linguagem PHP. Utilizando o banco de Dados Relacional MySQL
 <br>
 
     Curso Superior de Tecnologia (CST) 
