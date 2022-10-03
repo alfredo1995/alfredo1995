@@ -3,10 +3,10 @@
         Desenvolvedor / Programador C#, aplicando conhecimentos adquiridos e desenvolvendo novas habilidades
 
         Conhecimentos em programação, orientação a objetos e algoritmos; 
-        Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
+        Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;        
         Conhecimento com sistemas de controle de versão (GIT);
+        Conhecimento em programação de jogos em C# na Unity;
         Domínio da IDE (VisualStudio e VisualStudio Code);
-        Programação e desenvolvimento de jogos em C# na Unity;
 
         Estudando desenvolvimento de API REST para Unity;
         Estudando boas práticas na escrita de software Clean Code;
