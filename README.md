@@ -5,12 +5,12 @@
         Conhecimentos em programação, orientação a objetos e algoritmos; 
         Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
         Conhecimento com sistemas de controle de versão (GIT);
-        Conhecimento em metodologias ágeis e seus rituais;
         Domínio da IDE (VisualStudio e VisualStudio Code);
+        Programação e desenvolvimento de jogos em C# na Unity;
 
-        Estudando desenvolvimento de jogos na Unity;
-        Estudando construção de scripts C# para jogos Unity;
+        Estudando desenvolvimento de API REST para Unity;
         Estudando boas práticas na escrita de software Clean Code;
+        Estudando metodologia agies de desenvolvimento de Software SCRUM;
         Estudando princípios de design de software SOLID;
         Estudando Inglês Básico;
 
@@ -21,8 +21,11 @@
        PlaySTEM Academy | 09/2021 a 03/ 2022 (6 meses) 
 
         Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos e GIT
+            
+        Programação de jogos eletrônicos;
+        Construção de scripts C# passando instruções lógicas para jogos Unity;
+        Uso da ferramenta Hacknplan para organizar, planejar e acompanhar o progresso do jogo;
 
-        Construção de scripts C# para jogos Unity;
         
         Atuando com foco em desenvolvimento de Scripts que comunique com o Astronomy Engine, ou engenharia astronômica,
         engenharia envolvendo operações com objetos astronômicos inteiros(planetas, estrelas, etc.), é um tema 
