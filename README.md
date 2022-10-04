@@ -8,10 +8,10 @@
         Conhecimento em programação de jogos em C# na Unity;
         Domínio da IDE (VisualStudio e VisualStudio Code);
 
-        Estudando desenvolvimento de API REST para Unity;
         Estudando boas práticas na escrita de software Clean Code;
         Estudando metodologia agies de desenvolvimento de Software SCRUM;
         Estudando princípios de design de software SOLID;
+        Estudando desenvolvimento de API REST para Unity;
         Estudando Inglês Básico;
 
  
