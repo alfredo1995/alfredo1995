@@ -20,7 +20,7 @@
     Desenvolvedor Unity - Estágio 
        PlaySTEM Academy | 09/2021 a 03/ 2022 (6 meses) 
 
-        Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos e GIT
+        Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos, Hacknplan e GitLab
             
         Programação de jogos eletrônicos;
         Construção de scripts C# passando instruções lógicas para jogos Unity;
