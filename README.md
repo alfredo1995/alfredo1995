@@ -1,5 +1,3 @@
-   <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>   
-
         Desenvolvedor / Programador C#, aplicando conhecimentos adquiridos e desenvolvendo novas habilidades
 
         Conhecimentos em programação, orientação a objetos e algoritmos; 
