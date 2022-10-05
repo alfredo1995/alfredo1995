@@ -21,7 +21,6 @@
         Programação de jogos eletrônicos;
         Construção de scripts C# passando instruções lógicas para jogos Unity;
         Uso da ferramenta Hacknplan para organizar, planejar e acompanhar o progresso do jogo;
-
         
         Atuando com foco em desenvolvimento de Scripts que comunique com o Astronomy Engine, ou engenharia astronômica,
         engenharia envolvendo operações com objetos astronômicos inteiros(planetas, estrelas, etc.), é um tema 
@@ -35,7 +34,6 @@
 
         Desenvolvedor trainee utilizando C#, POO, Git, SQL Server, Entity Framework Core e ASP.NET Core
 
-        Metodologia de design de software DDD.
         Desenvolvimento de REST API utilizando a linguagem C#
         Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
 
