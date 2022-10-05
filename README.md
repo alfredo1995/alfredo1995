@@ -5,12 +5,11 @@
         Conhecimentos em programação, orientação a objetos e algoritmos; 
         Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;        
         Conhecimento com sistemas de controle de versão (GIT);
-        Conhecimento em programação de jogos em C# na Unity;
         Domínio da IDE (VisualStudio e VisualStudio Code);
 
+        Estudando programação de jogos em C# na Unity;
         Estudando boas práticas na escrita de software Clean Code;
         Estudando metodologia agies de desenvolvimento de Software SCRUM;
-        Estudando princípios de design de software SOLID;
         Estudando Inglês Básico;
  
 <br>
