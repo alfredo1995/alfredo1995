@@ -1,7 +1,7 @@
         Desenvolvedor / Programador C#, aplicando conhecimentos adquiridos e desenvolvendo novas habilidades
 
         Conhecimentos em programação, orientação a objetos e algoritmos; 
-        Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;        
+        Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL Server;        
         Conhecimento com sistemas de controle de versão (GIT);
         Domínio da IDE (VisualStudio e VisualStudio Code);
 
