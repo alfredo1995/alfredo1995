@@ -17,6 +17,7 @@
         Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos, Hacknplan e GitLab
             
         Programação de jogos eletrônicos;
+        Implementar algoritmos com base nos recursos do Astronomy Engine;
         Construção de scripts C# passando instruções lógicas para jogos Unity;
         Uso da ferramenta Hacknplan para organizar, planejar e acompanhar o progresso do jogo;
         
