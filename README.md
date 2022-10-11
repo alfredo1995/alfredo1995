@@ -50,7 +50,7 @@
 <div>
    <p align="center">
     <a href="https://www.linkedin.com/in/alfredo-gomes-pereira-1ba665239"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.youtube.com/c/ÁreadaProgramação"><img alt="Linkedin" src="https://img.shields.io/youtube/channel/subscribers/UCXKSo8RSfVmrawXleZ-_arg?style=social"></a><a href="https://www.linkedin.com/in/alfredo1995/" target="_blank"></a>&nbsp;<img alt="ItchIo" src="[https://img.icons8.com/windows/452/itch-io.png](https://cdn-icons-png.flaticon.com/128/8426/8426547.png)"></a><a href="https://alfredo1995.itch.io/" target="_blank"></a>&nbsp;
+    <a href="https://www.youtube.com/c/ÁreadaProgramação"><img alt="Linkedin" src="https://img.shields.io/youtube/channel/subscribers/UCXKSo8RSfVmrawXleZ-_arg?style=social"></a><a href="https://www.linkedin.com/in/alfredo1995/" target="_blank"></a>&nbsp;<img alt="ItchIo" src="https://cdn-icons-png.flaticon.com/128/6891/6891250.png"></a><a href="https://alfredo1995.itch.io/" target="_blank"></a>&nbsp;
   </p>
 </div>
 
