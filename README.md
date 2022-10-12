@@ -1,6 +1,6 @@
         Desenvolvedor / Programador C#
 
-        Proficiência em C#; 
+        Proficiência com a linguagem de programação C#; 
         Conhecimentos em programação, orientação a objetos e algoritmos; 
         Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL Server;
         Conhecimento com sistemas de controle de versão (GIT);
