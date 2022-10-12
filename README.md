@@ -38,7 +38,7 @@
 
         Desenvolvedor trainee utilizando C#, POO, Git, SQL Server, Entity Framework Core e ASP.NET Core
 
-        Desenvolvimento de APIs REST com ASP.NET Core utilizando a linguagem C#
+        Implementação de novas features em rest API's na plataforma .net com c#;
         Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
 
         Atuando com foco em desenvolvimento Backend no sistema da Fundação Renova. Entidade responsável
