@@ -14,16 +14,21 @@
     Desenvolvedor Unity - Estágio 
        PlaySTEM Academy | 09/2021 a 03/ 2022 (6 meses) 
 
-        Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos, Hacknplan e GitLab
-            
-        Programação de jogos eletrônicos;
+        Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos, Hacknplan e GitLab;
+
+        Programação de jogos para dispositivos mobile;
         Implementar algoritmos com base nos recursos do Astronomy Engine;
-        Construção de scripts C# passando instruções lógicas para jogos Unity;
         Uso da ferramenta Hacknplan para organizar, planejar e acompanhar o progresso do jogo;
-        
-        Atuando com foco em desenvolvimento de Scripts que comunique com o Astronomy Engine, ou engenharia astronômica,
-        engenharia envolvendo operações com objetos astronômicos inteiros(planetas, estrelas, etc.), é um tema 
-        conhecido na ficção científica, bem como uma questão de pesquisa científica recente e engenharia exploratória.
+
+        Atuando de forma cooperativa como programador de jogos, no desenvolvimento do jogo mobile Milky Shaky LAB,
+        um localizador de corpos celeste que introduz astronomia pratica para as crianças. 
+
+        Aqui eu melhorei muito meu conhecimento de programação e desenvolvimento com C # e Unity
+
+        Atuando com foco na construção de scripts C#, passando instruções lógicas que comunique com o 
+        Astronomy Engine, ou engenharia astronômica, ou seja, engenharia envolvendo operações com objetos
+        astronômicos inteiros (planetas, estrelas, etc.), é um tema conhecido na ficção científica, 
+        bem como uma questão de pesquisa científica recente e engenharia exploratória.
 
 
 <br>
