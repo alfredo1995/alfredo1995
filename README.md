@@ -17,7 +17,7 @@
         Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos, Hacknplan e GitLab;
 
         Programação de jogos para dispositivos mobile;
-        Implementar algoritmos com base nos recursos do Astronomy Engine;
+        Implementação de algoritmos com base nos recursos do Astronomy Engine;
         Uso da ferramenta Hacknplan para organizar, planejar e acompanhar o progresso do jogo;
 
         Atuando de forma cooperativa como programador de jogos, no desenvolvimento do jogo mobile Milky Shaky LAB,
