@@ -23,7 +23,7 @@
         Atuando de forma cooperativa como programador de jogos, no desenvolvimento do jogo mobile Milky Shaky LAB,
         um localizador de corpos celeste que introduz astronomia pratica para as crianças. 
 
-        Aqui eu melhorei muito meu conhecimento de programação e desenvolvimento com C # e Unity
+        Aqui eu melhorei muito meu conhecimento de programação e desenvolvimento com C# e Unity
 
         Atuando com foco na construção de scripts C#, passando instruções lógicas que comunique com o 
         Astronomy Engine, ou engenharia astronômica, ou seja, engenharia envolvendo operações com objetos
