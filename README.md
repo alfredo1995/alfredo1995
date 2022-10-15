@@ -1,6 +1,6 @@
         Desenvolvedor / Programador C#
 
-        Proficiência com a linguagem de programação C#; 
+        Proficiência em C#; 
         Conhecimentos em programação, orientação a objetos e algoritmos; 
         Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL Server;
         Conhecimento com sistemas de controle de versão (GIT);
@@ -29,7 +29,6 @@
         Astronomy Engine, ou engenharia astronômica, ou seja, engenharia envolvendo operações com objetos
         astronômicos inteiros (planetas, estrelas, etc.), é um tema conhecido na ficção científica, 
         bem como uma questão de pesquisa científica recente e engenharia exploratória.
-
 
 <br>
   
