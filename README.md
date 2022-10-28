@@ -1,11 +1,11 @@
-        Desenvolvedor / Programador C#
+        Programador / Desenvolvedor C#
 
-        Proficiência em C#; 
+        Proficiência em linguagem de programação C#;
         Conhecimentos em programação, orientação a objetos e algoritmos; 
         Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL Server;
         Conhecimento com sistemas de controle de versão (GIT);
 
-        Estudando programação de jogos em C# na Unity;
+        Estudando em programação de jogos com C# na Unity;
         Estudando boas práticas na escrita de software Clean Code;
         Estudando Inglês Básico;
  
@@ -16,16 +16,15 @@
 
         Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos, Hacknplan e GitLab;
 
-        Programação de jogos para dispositivos mobile;
-        Implementação de algoritmos com base nos recursos do Astronomy Engine;
-        Uso da ferramenta Hacknplan para organizar, planejar e acompanhar o progresso do jogo;
+        Aqui melhorei meu conhecimento em programação com C# e desenvolvimento na Unity
 
-        Atuando de forma cooperativa como programador de jogos, no desenvolvimento do jogo mobile Milky Shaky LAB,
+        Atuando de forma cooperativa como programador de jogos, no desenvolvimento do jogo mobile Milky Shaky LAB, 
         um localizador de corpos celeste que introduz astronomia pratica para as crianças. 
 
-        Aqui eu melhorei muito meu conhecimento de programação e desenvolvimento com C# e Unity
-
-        Atuando com foco na construção de scripts C#, passando instruções lógicas que comunique com o 
+        Hacknplan para organizar, planejar e acompanhar o progresso do jogo;        
+        Implementação de algoritmos com base nos recursos do Astronomy Engine;
+        
+        Construção de scripts C#,passando instruções lógicas que comunique com o 
         Astronomy Engine, ou engenharia astronômica, ou seja, engenharia envolvendo operações com objetos
         astronômicos inteiros (planetas, estrelas, etc.), é um tema conhecido na ficção científica, 
         bem como uma questão de pesquisa científica recente e engenharia exploratória.
