@@ -4,8 +4,8 @@
         Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
         Conhecimento em sistemas de controle de versões (GIT);
 
-        Estudando programação de jogos 2D e 3D na Unity;
         Estudando boas práticas na escrita de código C# com (Clean Code);
+        Estudando programação de jogos 2D e 3D na Unity;
         Estudando Inglês Básico;
 
 <br>
