@@ -15,31 +15,31 @@
 
         Desenvolvedor Estagiário utilizando C#, Unity, Programação orientada a objetos, Hacknplan e GitLab;
 
-        Aqui melhorei meu conhecimento em programação com C# e desenvolvimento na Unity
+        Construção de scripts C#, passando instruções lógicas para jogos digitais;
+        Organização, planejamento e acompanhamento do jogo com Hacknplan;
+        Desenvolvimento de jogos 3D e 2D em UNITY;
 
         Atuando de forma cooperativa como programador de jogos, no desenvolvimento do jogo mobile Milky Shaky LAB, 
-        um localizador de corpos celeste que introduz astronomia pratica para as crianças. 
+        um localizador de corpos celeste que introduz astronomia prática para as crianças. 
 
-        Hacknplan para organizar, planejar e acompanhar o progresso do jogo;        
-        Implementação de algoritmos com base nos recursos do Astronomy Engine;
-        
-        Construção de scripts C#,passando instruções lógicas que comunique com o 
-        Astronomy Engine, ou engenharia astronômica, ou seja, engenharia envolvendo operações com objetos
-        astronômicos inteiros (planetas, estrelas, etc.), é um tema conhecido na ficção científica, 
-        bem como uma questão de pesquisa científica recente e engenharia exploratória.
+        Implementando algoritmos com base nos recursos do Astronomy Engine, ou engenharia astronômica, ou seja, 
+        engenharia envolvendo operações com objetos astronômicos inteiros (planetas, estrelas, etc.), é um tema
+        conhecido na ficção científica, bem como uma questão de pesquisa científica recente e engenharia exploratória.
 
 <br>
   
     Desenvolvedor .NET  - Trainne
        Ketra Soluções Inteligentes| maio - nov 2021 ( 6 meses ) 
 
-        Desenvolvedor trainee utilizando C#, POO, Git, SQL Server, Entity Framework Core e ASP.NET Core
+        Desenvolvedor trainee utilizando C#, .NET, Programação orientada a objetos, Microsoft SQL Server, Entity Framework Core 6.0, GIT;
 
-        Implementação de novas features em rest API's na plataforma .net com c#;
-        Metodologia ágil para gestão e planejamento de projetos de software SCRUM.
+        Utilizando Visual Studio IDE para codificar, construir, depurar, projetar interface do usuário, gerenciar arquivos, 
+        acessar repositórios de código, gerenciar plugins (pacotes NuGet), trabalhar com bancos de dados MySQL Server na plataforma .NET;
 
-        Atuando com foco em desenvolvimento Backend no sistema da Fundação Renova. Entidade responsável
-        pela mobilização para a reparação dos danos causados pelo rompimento da barragem de Fundão, Mariana (MG).
+        Metodologia ágil para gestão e planejamento de projetos de software (SCRUM);
+
+        Atuando em treinamento com desenvolvimento Back-End no sistema da Fundação Renova. Entidade responsável pela
+        mobilização para a reparação dos danos causados pelo rompimento da barragem de Fundão, Mariana (MG)
 
 <br>
 
