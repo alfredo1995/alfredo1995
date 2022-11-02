@@ -1,4 +1,6 @@
         Desenvolvedor / Programador C#
+        
+        Buscando está apto a programar jogos como (Game Developer) utilizando a linguagem C#;
 
         Conhecimentos em linguagem de programação C#, orientação a objetos e algoritmos; 
         Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
