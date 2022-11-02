@@ -1,14 +1,13 @@
-        Programador / Desenvolvedor C#
+        Desenvolvedor / Programador C#
 
-        Proficiência em linguagem de programação C#;
-        Conhecimentos em programação, orientação a objetos e algoritmos; 
-        Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL Server;
-        Conhecimento com sistemas de controle de versão (GIT);
+        Conhecimentos em linguagem de programação C#, orientação a objetos e algoritmos; 
+        Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
+        Conhecimento em sistemas de controle de versões (GIT);
 
-        Estudando em programação de jogos com C# na Unity;
-        Estudando boas práticas na escrita de software Clean Code;
+        Estudando programação de jogos 2D e 3D na Unity;
+        Estudando boas práticas na escrita de código C# com (Clean Code);
         Estudando Inglês Básico;
- 
+
 <br>
   
     Desenvolvedor Unity - Estágio 
