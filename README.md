@@ -33,8 +33,8 @@
 
         Desenvolvedor trainee utilizando C#, .NET, Programação orientada a objetos, Microsoft SQL Server, EFCore e GIT;
 
-        Utilizando Visual Studio IDE para codificar, construir, depurar, projetar interface do usuário, gerenciar 
-        arquivos, acessar repositórios de código, gerenciar plugins (pacotes NuGet), e bancos de dados SQL Server.
+        Utilizando Visual Studio IDE para codificar, depurar, projetar interface do usuário, gerenciar 
+        arquivos, acessar repositórios de código, gerenciar plugins(pacotes NuGet), e uso ao bancos de dados SQL Server.
         
         Metodologia ágil para gestão e planejamento de projetos de software (SCRUM);
 
