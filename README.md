@@ -13,15 +13,11 @@
     Desenvolvedor Unity - Estágio 
        PlaySTEM Academy | 09/2021 a 03/ 2022 (6 meses) 
 
-        Desenvolvedor Estagiário utilizando Unity 3D, C#, Programação orientada a objetos, Hacknplan e GitLab;
+        Desenvolvedor Estagiário utilizando Unity3D, C#, Programação orientada a objetos, Hacknplan e GitLab;
 
-        Aqui melhorei muito meu conhecimento com programação em C# e desenvolvimento de jogos na unity;
-
-        Construção de scripts C#, passando instruções lógicas para jogos digitais;
-
+        Programação em C#, passando instruções lógicas para jogos digitais;
         Desenvolvimento de jogos 2D e 3D na Unity3D;
-
-        Organização, planejamento e acompanhamento do jogo com Hacknplan 
+        Organização, planejamento e acompanhamento dos jogos com Hacknplan;
 
         Atuando de forma cooperativa como programador de jogos, no desenvolvimento do jogo mobile Milky Shaky LAB,
         um localizador de corpos celeste que introduz astronomia prática para as crianças. 
