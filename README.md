@@ -15,7 +15,7 @@
 
         Desenvolvedor Estagiário utilizando Unity3D, C#, Programação orientada a objetos, Hacknplan e GitLab;
 
-        Programação em C#, passando instruções lógicas para jogos digitais;
+        Programação C#, passando instruções lógicas para jogos digitais;
         Desenvolvimento de jogos 2D e 3D na Unity3D;
         Organização, planejamento e acompanhamento dos jogos com Hacknplan;
 
