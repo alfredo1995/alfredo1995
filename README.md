@@ -41,14 +41,6 @@
         Atuando em treinamento com desenvolvimento Back-End no sistema da Fundação Renova. Entidade responsável pela
         mobilização para a reparação dos danos causados pelo rompimento da barragem de Fundão, Mariana (MG)
 
-<br>
-
-    Curso Superior de Tecnologia (CST) 
-       Universidade Estácio de Sá  | 2022 - 2025
-            
-       Ensino Superior em Análise e Desenvolvimento de Sistemas e software.          
-
-
 <div>
    <p align="center">
     <a href="https://www.linkedin.com/in/alfredo-gomes-pereira-1ba665239"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
