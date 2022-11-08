@@ -10,7 +10,7 @@
         Estudando boas práticas na escrita de código C# com (Clean Code);
         Estudando Inglês Básico;           
         
-        Criei o canal "Área da Programação " Para quem está dando os primeiros passos rumo a construção de softwares C#
+        Criei o canal "Área da Programação " Rumo a construção de softwares utilizando a linguagem C#
 
         
    <p align="center">
