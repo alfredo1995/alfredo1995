@@ -8,24 +8,19 @@
 
         Estudando desenvolvimento de jogos 2D e 3D na Unity3D;
         Estudando boas práticas na escrita de código C# com (Clean Code);
-        Estudando Inglês Básico;
+        Estudando Inglês Básico;           
 
-<br>
-  
-    Desenvolvedor Unity - Estágio 
-       PlaySTEM Academy | 09/2021 a 03/ 2022 (6 meses) 
-       
-        Organização, planejamento e acompanhamento dos jogos com Hacknplan;
+<br>    
 
-        Atuando de forma cooperativa como programador de jogos, no desenvolvimento do jogo mobile Milky Shaky LAB,
+        Atuando de forma cooperativa como programador de jogos na PlaySTEM Academy. Desenvolvimento do jogo mobile Milky Shaky LAB,
         um localizador de corpos celeste que introduz astronomia prática para as crianças. 
         
         Programação C#, passando instruções lógicas para jogos digitais e desenvolvimento de jogos 2D e 3D na Unity3D;
-
-<br>
-  
-    Desenvolvedor .NET  - Trainne
-       Ketra Soluções Inteligentes| maio - nov 2021 ( 6 meses ) 
+        
+        Organização, planejamento e acompanhamento dos jogos com Hacknplan;
+<br>        
+        
+        6 meses, atuando em treinamento como Desenvolvedor .NET(trainne) na emprasa Ketra Soluções Inteligentes
 
         Desenvolvedor trainee utilizando C#, .NET, Programação orientada a objetos, SQL Server, EFCore, SCRUM e GIT;
 
