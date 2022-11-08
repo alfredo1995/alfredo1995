@@ -9,6 +9,8 @@
         Estudando desenvolvimento de jogos 2D e 3D na Unity3D;
         Estudando boas práticas na escrita de código C# com (Clean Code);
         Estudando Inglês Básico;           
+        
+        Criei o canal "Área da Programação " Para quem está dando os primeiros passos rumo a construção de softwares, vale a pena seguir esse canal.
 
         
    <p align="center">
