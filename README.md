@@ -10,22 +10,6 @@
         Estudando boas práticas na escrita de código C# com (Clean Code);
         Estudando Inglês Básico;           
 
-<br>    
-
-        Atuando de forma cooperativa como programador de jogos na PlaySTEM Academy. Desenvolvimento do jogo mobile Milky Shaky LAB,
-        um localizador de corpos celeste que introduz astronomia prática para as crianças. 
-        
-        Programação C#, passando instruções lógicas para jogos digitais e desenvolvimento de jogos 2D e 3D na Unity3D;
-        
-        Organização, planejamento e acompanhamento dos jogos com Hacknplan;
-<br>        
-        
-        6 meses, atuando em treinamento como Desenvolvedor .NET(trainne) na emprasa Ketra Soluções Inteligentes
-
-        Desenvolvedor trainee utilizando C#, .NET, Programação orientada a objetos, SQL Server, EFCore, SCRUM e GIT;
-
-        Utilizando Visual Studio IDE para codificar, depurar, projetar interface do usuário, gerenciar 
-        arquivos, acessar repositórios de código, gerenciar plugins(pacotes NuGet), e uso ao bancos de dados SQL Server.
         
    <p align="center">
     <a href="https://www.linkedin.com/in/alfredo-gomes-pereira-1ba665239"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
