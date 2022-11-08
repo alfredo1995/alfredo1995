@@ -31,17 +31,10 @@
     Desenvolvedor .NET  - Trainne
        Ketra Soluções Inteligentes| maio - nov 2021 ( 6 meses ) 
 
-        Desenvolvedor trainee utilizando C#, .NET, Programação orientada a objetos, Microsoft SQL Server, EFCore e GIT;
+        Desenvolvedor trainee utilizando C#, .NET, Programação orientada a objetos, SQL Server, EFCore, SCRUM e GIT;
 
         Utilizando Visual Studio IDE para codificar, depurar, projetar interface do usuário, gerenciar 
         arquivos, acessar repositórios de código, gerenciar plugins(pacotes NuGet), e uso ao bancos de dados SQL Server.
-        
-        Metodologia ágil para gestão e planejamento de projetos de software (SCRUM);
-
-        Atuando em treinamento com desenvolvimento Back-End no sistema da Fundação Renova. Entidade responsável pela
-        mobilização para a reparação dos danos causados pelo rompimento da barragem de Fundão, Mariana (MG)
-
-<div>
    <p align="center">
     <a href="https://www.linkedin.com/in/alfredo-gomes-pereira-1ba665239"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.youtube.com/c/ÁreadaProgramação"><img alt="Linkedin" src="https://img.shields.io/youtube/channel/subscribers/UCXKSo8RSfVmrawXleZ-_arg?style=social"></a><a href="https://www.linkedin.com/in/alfredo1995/" target="_blank"></a>&nbsp;
