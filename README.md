@@ -22,10 +22,6 @@
         Atuando de forma cooperativa como programador de jogos, no desenvolvimento do jogo mobile Milky Shaky LAB,
         um localizador de corpos celeste que introduz astronomia prática para as crianças. 
 
-        Implementando algoritmos com base nos recursos do Astronomy Engine, ou engenharia astronômica, ou seja,
-        engenharia envolvendo operações com objetos astronômicos inteiros (planetas, estrelas, etc.), é um tema 
-        conhecido na ficção científica, bem como uma questão de pesquisa científica recente e engenharia exploratória.
-
 <br>
   
     Desenvolvedor .NET  - Trainne
