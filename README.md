@@ -1,6 +1,6 @@
         Desenvolvedor / Programador C#
                 
-        Minha meta atual é me tornar especialista em linguagem C# e produtos Microsoft;
+        Minha meta é me tornar especialista em linguagem C# e produtos Microsoft;
         
         Conhecimentos em linguagem de programação C#, orientação a objetos e algoritmos; 
         Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
@@ -14,13 +14,13 @@
   
     Desenvolvedor Unity - Estágio 
        PlaySTEM Academy | 09/2021 a 03/ 2022 (6 meses) 
-
-        Programação C#, passando instruções lógicas para jogos digitais;
-        Desenvolvimento de jogos 2D e 3D na Unity3D;
+       
         Organização, planejamento e acompanhamento dos jogos com Hacknplan;
 
         Atuando de forma cooperativa como programador de jogos, no desenvolvimento do jogo mobile Milky Shaky LAB,
         um localizador de corpos celeste que introduz astronomia prática para as crianças. 
+        
+        Programação C#, passando instruções lógicas para jogos digitais e desenvolvimento de jogos 2D e 3D na Unity3D;
 
 <br>
   
