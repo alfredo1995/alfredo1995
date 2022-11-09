@@ -12,7 +12,7 @@
 
         Venho melhorando meu conhecimento em (Programação C#), atuando como programador de jogos na PlaySTEM Academy 
 
-        Criei o canal "Área da Programação " P/ quem está dando os primeiros passos rumo a construção de softwares
+        Criei o canal "Área da Programação " P/ quem está dando os primeiros passos rumo a construção de softwares C#
 
         
 
