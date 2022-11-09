@@ -23,4 +23,4 @@
   </p>
 </div>
 
-<a href="https://www.linkedin.com/in/alfredo-gomes-pereira-1ba665239"><img alt="Linkedin" src="https://icons8.com.br/icon/64FuFOk6miFN/linkedin-circundado"></a>&nbsp;&nbsp;&nbsp;  
+<a href="https://www.linkedin.com/in/alfredo-gomes-pereira-1ba665239"><img alt="Linkedin" src="[https://icons8.com.br/icon/64FuFOk6miFN/linkedin-circundado(https://icons8.com.br/icon/64FuFOk6miFN/linkedin-circundado"></a>&nbsp;&nbsp;&nbsp;  
