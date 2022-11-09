@@ -1,18 +1,18 @@
-        Desenvolvedor / Programador C#
-                
-        Minha meta é me tornar proficiente em linguagem C# e produtos Microsoft;
-        
+        Desenvolvedor / Programador C# 
+
+        Minha meta é me tornar especialista em linguagem C#;
+
         Conhecimentos em linguagem de programação C#, orientação a objetos e algoritmos; 
         Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
         Conhecimento em sistemas de controle de versões (GIT);
 
         Estudando desenvolvimento de jogos 2D e 3D na Unity3D;
         Estudando boas práticas na escrita de código C# com (Clean Code);
-        Estudando Inglês Básico;           
-        
-        Venho melhorando meu conhecimento em programação C#, atuando como programador de jogos na PlaySTEM Academy
+        Estudando inglês básico;
 
-        Criei o canal "Área da Programação " para quem está dando os primeiros passos rumo a construção de softwares C#
+        Venho melhorando muito meu conhecimento em (Programação C#), atuando como programador de jogos na empresa PlaySTEM Academy; 
+
+        Criei o canal "Área da Programação " para quem está dando os primeiros passos rumo a construção de softwares em linguagem C#
 
         
 
