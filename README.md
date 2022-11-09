@@ -8,7 +8,7 @@
 
         Estudando desenvolvimento de jogos 2D e 3D na Unity3D;
         Estudando boas práticas na escrita de código C# com (Clean Code);
-        Estudando Desenvolvimento de REST API com linguagem C# através do framework .NET com tecnologia (ASP.NET Core)
+        Estudando Desenvolvimento de REST API com linguagem C#, através do framework .NET com tecnologia (ASP.NET Core)
         Estudando Inglês Básico;           
         
         Venho melhorando meu conhecimento em programação C#, atuando como programador de jogos na PlaySTEM Academy
