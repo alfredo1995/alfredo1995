@@ -15,11 +15,11 @@
         Criei o canal "Área da Programação " Rumo a construção de softwares utilizando a linguagem C#
 
         
-
-<p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
-
-<p align="center">
-    <a href="https://www.youtube.com/c/ÁreadaProgramação"><img alt="Linkedin" src="[https://img.shields.io/youtube/channel/subscribers/UCXKSo8RSfVmrawXleZ-_arg?style=social](https://cdn-icons-png.flaticon.com/512/3488/3488326.png)"></a><a href="https://www.linkedin.com/in/alfredo1995/" target="_blank"></a>&nbsp;
+<div>
+   <p align="center">
+    <a href="https://www.linkedin.com/in/alfredo-gomes-pereira-1ba665239"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.youtube.com/c/ÁreadaProgramação"><img alt="Linkedin" src="https://img.shields.io/youtube/channel/subscribers/UCXKSo8RSfVmrawXleZ-_arg?style=social"></a><a href="https://www.linkedin.com/in/alfredo1995/" target="_blank"></a>&nbsp;
   </p>
 </div>
 
+<p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
