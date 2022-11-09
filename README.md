@@ -10,9 +10,9 @@
         Estudando boas práticas na escrita de código C# com (Clean Code);
         Estudando inglês básico;
 
-        Venho melhorando muito meu conhecimento em (Programação C#), atuando como programador de jogos na empresa PlaySTEM Academy; 
+        Venho melhorando meu conhecimento em (Programação C#), atuando como programador de jogos na empresa PlaySTEM Academy; 
 
-        Criei o canal "Área da Programação " para quem está dando os primeiros passos rumo a construção de softwares em linguagem C#
+        Criei o canal "Área da Programação " P/ quem está dando os primeiros passos rumo a construção de softwares
 
         
 
