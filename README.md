@@ -1,6 +1,6 @@
         Desenvolvedor / Programador C#
                 
-        Minha meta é me tornar especialista em linguagem C# e produtos Microsoft;
+        Minha meta é me tornar proficiente em linguagem C# e produtos Microsoft;
         
         Conhecimentos em linguagem de programação C#, orientação a objetos e algoritmos; 
         Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
