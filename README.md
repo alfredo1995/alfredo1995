@@ -1,3 +1,7 @@
+<p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
+ 
+      
+      
         Rumo a proficiência em linguagem C#;
         
         Conhecimentos em linguagem de programação C#, orientação a objetos e algoritmos; 
@@ -13,7 +17,6 @@
         Criei o canal "Área da Programação " para quem está dando os primeiros passos rumo a construção de softwares C#
 
         
-<p align="center"><img width=55% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
 
 
 <p align="center">
