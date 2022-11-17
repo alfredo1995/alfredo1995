@@ -13,7 +13,7 @@
         Criei o canal "Área da Programação " para quem está dando os primeiros passos rumo a construção de softwares C#
 
         
-<p align="center"><img width=45% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
+<p align="center"><img width=55% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
 
 
 <p align="center">
