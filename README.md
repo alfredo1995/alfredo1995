@@ -15,7 +15,7 @@
     Estudando boas práticas na escrita de código C# com (Clean Code);
     Estudando inglês básico;
 
-    Venho melhorando meu conhecimento em (Programação C#), atuando com programação de jogos PlaySTEM Academy; 
+    Venho melhorando meu conhecimento em (Programação C#), atuando com programação de jogos na PlaySTEM Academy; 
 
     Familiaridade com desenvolvimento de REST API em C#, através do framework .NET com tecnologia (ASP.NET Core)
 
