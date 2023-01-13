@@ -10,10 +10,11 @@
     Conhecimentos em linguagem de programação C#, orientação a objetos e algoritmos; 
     Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
     Conhecimento em sistemas de controle de versões (GIT);
-
-    Estudando desenvolvimento de jogos 2D e 3D na Unity3D;
+    Conhecimento em desenvolvimento de jogos 2D e 3D no Unity3D;
+    
     Estudando boas práticas na escrita de código C# com (Clean Code);
-    Estudando inglês básico;
+    Estudando os princípios de design de código orientado a objeto (SOLID); 
+    Estudando nível básico do inglês (Leitura, Escrita e Conversação); 
 
     Venho melhorando meu conhecimento em (Programação C#), atuando com programação de jogos na PlaySTEM Academy; 
 
