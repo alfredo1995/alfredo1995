@@ -7,10 +7,10 @@
       
     Rumo a proficiência em linguagem C#;
 
-    Conhecimentos em linguagem de programação C#, orientação a objetos e algoritmos; 
+    Conhecimento em linguagem de programação C#, algoritmos e orientação a objetos; 
     Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
-    Conhecimento em sistemas de controle de versões (GIT);
-    Conhecimento em desenvolvimento de jogos 2D e 3D no Unity3D;
+    Conhecimento em versionamento de código em sistemas de controle de versões (GIT);
+    Conhecimento em desenvolvimento de jogos 2D / 3D no Unity3D;
     
     Estudando boas práticas na escrita de código C# com (Clean Code);
     Estudando os princípios de design de código orientado a objeto (SOLID); 
