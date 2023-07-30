@@ -16,5 +16,5 @@
 
     Familiaridade com desenvolvimento de REST API em C#, através do framework .NET com tecnologia (ASP.NET Core)
 
-    Criei o canal "Área da Programação " para quem está dando os primeiros passos rumo a construção de softwares em C#
+    Criei o canal "Área da Programação " para aplicar conhecimento adquiridos e desenvolver novas habilidade na construção de softwares
     
