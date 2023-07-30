@@ -11,8 +11,8 @@
     Conhecimento em versionamento de código em sistemas de controle de versões (GIT);
     Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
     
-    Estudando os princípios de design de código orientado a objeto (SOLID); 
-    Estudando nível básico do inglês (Leitura, Escrita e Conversação); 
+    aprimorando meus conhecimentos nos princípios de design de código orientado a objeto (SOLID); 
+    aprimorando meus conhecimentos no idioma inglês, compreendendo leitura, escrita e conversação em nível básico.
 
     Familiaridade com desenvolvimento de REST API em C#, através do framework .NET com tecnologia (ASP.NET Core)
 
