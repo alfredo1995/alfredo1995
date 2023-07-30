@@ -9,7 +9,7 @@
     Conhecimento em desenvolvimento de jogos 2D / 3D no Unity;   
     Conhecimento em boas práticas na escrita de código com (Clean Code);
     Conhecimento em versionamento de código em sistemas de controle de versões (GIT);
-    Conhecimento em Comandos SQL para uso ao servidor de banco de dados Microsoft SQL;
+    Conhecimento em Transact-SQL para uso ao servidor de banco de dados Microsoft SQL;
     
     Estudando os princípios de design de código orientado a objeto (SOLID); 
     Estudando nível básico do inglês (Leitura, Escrita e Conversação); 
