@@ -7,12 +7,12 @@
       
     Sou um Programador com sólidos conhecimentos em linguagem de programação C#, algoritmos e orientação a objetos. 
     
-    Experiência com desenvolvimento de jogos 2D/3D na Unity, aplicando boas práticas na escrita de código, com foco em Clean Code. 
+    Experiência com desenvolvimento de jogos 2D/3D na Unity, aplicando boas práticas na escrita de código (Clean Code). 
     
     Além disso, possuo habilidades em versionamento de código utilizando sistemas de controle de versões, como o GIT
     
-    Estou constantemente aprimorando meus conhecimentos, atualmente estudando os princípios de design de código orientado a objetos 
-    (SOLID) e buscando desenvolver minhas habilidades no idioma inglês, compreendendo leitura, escrita e conversação em nível básico.
+    Estou constantemente aprimorando meus conhecimentos, atualmente estudando os princípios de design de código 
+    orientado a objetos (SOLID) e buscando habilidades no idioma inglês, compreendendo leitura, escrita e conversação
     
     Familiaridade com desenvolvimento de REST API em C#, através do framework .NET com tecnologia (ASP.NET Core)
 
