@@ -13,6 +13,6 @@
 
     Capacidade de entender e solucionar problemas complexos de software através da lógica da programação.
 
-    Estou constantemente aprimorando meus conhecimentos, atualmente desenvolvendo minhas habilidades no idioma inglês, compreendendo leitura, escrita e conversação.
+    Estou constantemente aprimorando meus conhecimentos, atualmente desenvolvendo minhas habilidades no idioma inglês.
    
     Familiaridade com desenvolvimento de REST API em C#, através do framework .NET com tecnologia (ASP.NET Core).
