@@ -9,13 +9,10 @@
 
     Compreensão dos Princípios SOLID para criação de código mais entendível, extensível, desacoplado e conciso.
     
-    Experiência com desenvolvimento de jogos 2D/3D na Unity, aplicando boas práticas na escrita de código (Clean Code). 
-    
-    Além disso, possuo habilidades em versionamento de código utilizando sistemas de controle de versões, como o GIT
-    
-    Estou constantemente aprimorando meus conhecimentos, atualmente estudando os princípios de design de código 
-    orientado a objetos (SOLID) e buscando habilidades no idioma inglês, compreendendo leitura, escrita e conversação
-    
-    Familiaridade com desenvolvimento de REST API em C#, através do framework .NET com tecnologia (ASP.NET Core)
+    Minha experiência inclui o desenvolvimento de jogos para dispositivos móveis através da Engine Unity. 
 
+    Capacidade de entender e solucionar problemas complexos de software através da lógica da programação.
+
+    Estou constantemente aprimorando meus conhecimentos, atualmente desenvolvendo minhas habilidades no idioma inglês, compreendendo leitura, escrita e conversação.
    
+    Familiaridade com desenvolvimento de REST API em C#, através do framework .NET com tecnologia (ASP.NET Core).
