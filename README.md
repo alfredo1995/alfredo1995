@@ -7,7 +7,7 @@
       
     Sou um Programador com sólidos conhecimentos em linguagem de programação C#, algoritmos e orientação a objetos, 
     
-    princípios SOLID para desenvolvimento de código entendível, extensível e conciso.
+    princípios SOLID para desenvolvimento de código entendível, extensível e conciso. 
 
     Minha experiência inclui o desenvolvimento de jogos para dispositivos móveis através da Engine Unity. 
 
