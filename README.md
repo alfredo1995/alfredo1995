@@ -5,7 +5,7 @@
     <a href="https://www.youtube.com/c/ÁreadaProgramação"><img alt="Linkedin" src="https://img.shields.io/youtube/channel/subscribers/UCXKSo8RSfVmrawXleZ-_arg?style=social"></a><a href="https://www.linkedin.com/in/alfredo1995/" target="_blank"></a>&nbsp;
 </p>     
       
-    I am a Programmer with solid knowledge in C# programming language, algorithms and object orientation, 
+    I am a Programmer with solid knowledge in C# programming language, Focus on efficient, cohesive and adaptable code.
     
     SOLID principles for developing understandable, extensible, and concise code. 
 
