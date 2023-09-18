@@ -5,12 +5,14 @@
     <a href="https://www.youtube.com/c/ÁreadaProgramação"><img alt="Linkedin" src="https://img.shields.io/youtube/channel/subscribers/UCXKSo8RSfVmrawXleZ-_arg?style=social"></a><a href="https://www.linkedin.com/in/alfredo1995/" target="_blank"></a>&nbsp;
 </p>     
       
-    Sou um Programador com sólidos conhecimentos em linguagem de programação C#, algoritmos e orientação a objetos, 
+    I am a Programmer with solid knowledge in C# programming language, algorithms and object orientation, 
     
-    princípios SOLID para desenvolvimento de código entendível, extensível e conciso. 
+    SOLID principles for developing understandable, extensible, and concise code. 
 
-    Minha experiência inclui o desenvolvimento de jogos para dispositivos móveis através da Engine Unity. 
+    My experience includes developing games for mobile devices through the Unity Engine. 
 
-    Familiaridade com desenvolvimento de REST API em C#, através do framework .NET com tecnologia (ASP.NET Core).
+    
+    Familiarity with REST API development in C#, through the .NET framework with technology (ASP.NET Core).
 
-    Estou constantemente aprimorando meus conhecimentos, atualmente desenvolvendo minhas habilidades no idioma inglês
+    I am constantly improving my knowledge, currently developing my English language skills
+
