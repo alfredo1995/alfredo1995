@@ -15,5 +15,4 @@
     
     Familiarity with REST API development in C#, through the .NET framework with technology (ASP.NET Core).
 
-    I am constantly improving my knowledge, currently developing my English language skills
 
