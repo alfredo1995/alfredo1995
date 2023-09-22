@@ -7,6 +7,10 @@
       
     I am a Programmer with experience in developing games for mobile devices
    
+    I am a programmer with solid knowledge in object-oriented programming languages and algorithms
+
+    My experience includes developing games for mobile devices through the Unity Engine.
+
     Familiarity with REST API development in C#, through the .NET framework with technology (ASP.NET Core).
 
 
