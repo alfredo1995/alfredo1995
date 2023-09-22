@@ -7,6 +7,8 @@
       
     I am a Programmer with solid knowledge of the C# programming language, algorithms and object orientation. 
     
+    Aiming for practice in developing readable, extensible and concise code.
+
     In order to improve the practice of developing readable, extensible and concise code.
 
     My experience includes developing games for mobile devices through the Unity Engine.
