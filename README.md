@@ -9,7 +9,7 @@
      
      I have experience with developing 2D mobile games using Unity Engine.
      
-     Familiarity with REST API development in C#, through the .NET framework with technology (ASP.NET Core).
+     REST API development in C#, through the .NET framework with technology (ASP.NET Core).
 
 
 
