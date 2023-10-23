@@ -11,7 +11,6 @@
      
      REST API development in C#, through the .NET framework with technology (ASP.NET Core).
  
-//![snake gif](https://github.com/alfredo1995/alfredo1995/blob/output/github-contribution-grid-snake.svg)
 
 
 
