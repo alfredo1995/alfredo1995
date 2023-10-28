@@ -5,8 +5,8 @@
     <a href="https://www.youtube.com/c/ÁreadaProgramação"><img alt="Linkedin" src="https://img.shields.io/youtube/channel/subscribers/UCXKSo8RSfVmrawXleZ-_arg?style=social"></a><a href="https://www.linkedin.com/in/alfredo1995/" target="_blank"></a>&nbsp;
 </p>     
       
-     I am a programmer committed to delivering logical solutions to software problems 
-     
+     I am a programmer committed to providing logical solutions to complex software problems    
+ 
      I have experience with developing 2D mobile games using Unity Engine.
      
      REST API development in C#, through the .NET framework with technology (ASP.NET Core).
