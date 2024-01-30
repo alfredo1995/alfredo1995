@@ -7,7 +7,7 @@
       
     I'm a programmer dedicated to finding logical solutions to complex software problems.
 
-    Solid experience with Unity development, proven by participation in relevant game projects on the Google Play platform.
+    Solid experience with Unity development, proven by participation in relevant game projects on the Google Play.
 
     Solid skills in C#, Object Oriented Programming (OOP) and design patterns, and good practices in game development.
 
