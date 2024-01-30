@@ -5,11 +5,13 @@
     <a href="https://www.youtube.com/c/ÁreadaProgramação"><img alt="Linkedin" src="https://img.shields.io/youtube/channel/subscribers/UCXKSo8RSfVmrawXleZ-_arg?style=social"></a><a href="https://www.linkedin.com/in/alfredo1995/" target="_blank"></a>&nbsp;
 </p>     
       
-     I am a programmer committed to providing logical solutions to complex software problems    
- 
-     I have experience with developing 2D mobile games using Unity Engine.
-     
-     REST API development in C#, through the .NET framework with technology (ASP.NET Core).
+    I'm a programmer dedicated to finding logical solutions to complex software problems.
+
+    Solid experience with Unity development, proven by participation in relevant game projects on the Google Play platform.
+
+    Solid skills in C#, Object Oriented Programming (OOP) and design patterns, and good practices in game development.
+
+    Familiarity with developing REST APIs with the .NET framework, using ASP.NET Core technology.
  
 
 
