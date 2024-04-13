@@ -9,7 +9,7 @@
 
     Solid experience with Unity development, proven by participation in relevant game projects on the Google Play.
 
-    Solid skills in C#, Object Oriented Programming (OOP) and design patterns, and good practices in game development.
+    Solid skills in C# an C++, Object Oriented Programming (OOP) and design patterns, and good practices in game development.
 
     Familiarity with developing REST APIs with the .NET framework, using ASP.NET Core technology.
  
