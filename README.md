@@ -21,6 +21,8 @@
 ![Bitbucket](https://img.shields.io/badge/_-Bitbucket-292e33?style=flat-square&logo=bitbucket&logoColor=fff)
 ![AWS](https://img.shields.io/badge/_-AWS-292e33?style=flat-square&logo=amazon&logoColor=fff)
 
+**I'm an Early 🐤** 
+
 ```text
 🌞 Morning                800 commits         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
 🌆 Daytime                1416 commits        █████████░░░░░░░░░░░░░░░░   36.14 % 
