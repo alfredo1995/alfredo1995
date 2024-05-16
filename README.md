@@ -1,5 +1,5 @@
 <p align="left"><img width=100% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
-<a href="https://www.youtube.com/c/ÁreadaProgramação"><img alt="Linkedin" src="https://img.shields.io/youtube/channel/subscribers/UCXKSo8RSfVmrawXleZ-_arg?style=social"></a><a href="https://www.linkedin.com/in/alfredo1995/" target="blank"></a>&nbsp;
+<a href="https://www.youtube.com/c/ÁreadaProgramação"><img alt="Linkedin" src="https://img.shields.io/youtube/channel/subscribers/UCXKSo8RSfVmrawXleZ-_arg?style=social"></a><a href="https://www.linkedin.com/in/alfredo1995/" target="blank"></a>
 ![Unity](https://img.shields.io/badge/_-Unity-292e33?style=flat-square&logo=unity&logoColor=fff)
 ![Unreal](https://img.shields.io/badge/_-Unreal-292e33?style=flat-square&logo=unreal%20engine&logoColor=fff)
 ![Godot](https://img.shields.io/badge/_-Godot-292e33?style=flat-square&logo=godot%20engine&logoColor=fff)
