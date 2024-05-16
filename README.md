@@ -10,6 +10,8 @@
 ![Lua](https://img.shields.io/badge/_-Lua-292e33?style=flat-square&logo=lua&logoColor=white)
 ![Unity](https://img.shields.io/badge/_-Unity-292e33?style=flat-square&logo=unity&logoColor=fff)
 ![Unreal](https://img.shields.io/badge/_-Unreal-292e33?style=flat-square&logo=unreal%20engine&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=mongodb&logoColor=white)
+
 
 
 **I'm an Early 🐤** 
