@@ -9,14 +9,11 @@
 ![Unreal](https://img.shields.io/badge/_-Unreal-292e33?style=flat-square&logo=unreal%20engine&logoColor=fff)
 ![Godot](https://img.shields.io/badge/_-Godot-292e33?style=flat-square&logo=godot%20engine&logoColor=fff)
 
-###### Project Managment / IDEs 
+###### Project Managment / IDEs / Configuration Control / Cloud Platform
 ![Trello](https://img.shields.io/badge/_-Jira-292e33?style=flat-square&logo=trello&logoColor=fff)
 ![Notion](https://img.shields.io/badge/_-Notion-292e33?style=flat-square&logo=notion&logoColor=fff)
 ![JetBrains](https://img.shields.io/badge/_-JetBrains-292e33?style=flat-square&logo=bitbucket&logoColor=fff)
 ![vscode](https://img.shields.io/badge/_-Visual%20Studio%20Code-292e33?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-
-###### Configuration Control / Cloud Platform
-
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=mongodb&logoColor=white)
