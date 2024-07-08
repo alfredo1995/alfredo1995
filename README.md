@@ -18,7 +18,7 @@
 
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github&logoColor=fff)
-![Bitbucket](https://img.shields.io/badge/_-Bitbucket-292e33?style=flat-square&logo=bitbucket&logoColor=fff)
+![Bitbucket](https://img.shields.io/badge/_-JetBrains-292e33?style=flat-square&logo=bitbucket&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/_-NodeJS-292e33?style=flat-square&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/_-AWS-292e33?style=flat-square&logo=amazon&logoColor=fff)
