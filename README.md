@@ -12,13 +12,13 @@
 ###### Project Managment / IDEs 
 ![Trello](https://img.shields.io/badge/_-Jira-292e33?style=flat-square&logo=trello&logoColor=fff)
 ![Notion](https://img.shields.io/badge/_-Notion-292e33?style=flat-square&logo=notion&logoColor=fff)
+![JetBrains](https://img.shields.io/badge/_-JetBrains-292e33?style=flat-square&logo=bitbucket&logoColor=fff)
 ![vscode](https://img.shields.io/badge/_-Visual%20Studio%20Code-292e33?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 
 ###### Configuration Control / Cloud Platform
 
 ![Git](https://img.shields.io/badge/_-Git-292e33?style=flat-square&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/_-GitHub-292e33?style=flat-square&logo=github&logoColor=fff)
-![Bitbucket](https://img.shields.io/badge/_-JetBrains-292e33?style=flat-square&logo=bitbucket&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/_-MongoDB-292e33?style=flat-square&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/_-NodeJS-292e33?style=flat-square&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/_-AWS-292e33?style=flat-square&logo=amazon&logoColor=fff)
