@@ -7,7 +7,7 @@
 ###### Game
 ![Unity](https://img.shields.io/badge/_-Unity-292e33?style=flat-square&logo=unity&logoColor=fff)
 ![Unreal](https://img.shields.io/badge/_-Unreal-292e33?style=flat-square&logo=unreal%20engine&logoColor=fff)
-![Godot](https://img.shields.io/badge/_-Godot-292e33?style=flat-square&logo=godot%20engine&logoColor=fff)
+![Godot](https://img.shields.io/badge/_-Godot-292e33?style=flat-square&logo=godot%20engine&logoColor=fff) 
 
 ###### Project Managment / Configuration Control / Cloud Platform
 ![Trello](https://img.shields.io/badge/_-Jira-292e33?style=flat-square&logo=trello&logoColor=fff)
