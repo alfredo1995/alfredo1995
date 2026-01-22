@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/c/ÁreadaProgramação"><img alt="Linkedin" src="https://img.shields.io/youtube/channel/subscribers/UCXKSo8RSfVmrawXleZ-_arg?style=social"></a><a href="https://www.linkedin.com/in/alfredo1995/" target="blank"></a>
 
-      📅 **I'm Most Productive on Tuesday** 
+      📅 I'm Most Productive on Tuesday
 
       Monday                   627 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
       Tuesday                  830 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
